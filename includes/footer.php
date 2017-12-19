@@ -1,4 +1,5 @@
-
+<!-- Footer Area Start -->
+<footer id="footer">
     <div class="container">
         <!-- Footer Background Image Start -->
         <div class="footer--bg" data-bg-img="img/footer-img/bg.png"></div>
