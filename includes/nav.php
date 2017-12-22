@@ -50,16 +50,12 @@
                                 <li><a href="">SEO</a></li>
                             </ul>
                         </li>
-                        <li><a href="domain.html">Domain</a></li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Pages<span class="caret"></span></a>
+                            <a href="#" data-toggle="dropdown">Web Hosting<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
-                                <li><a href="testimonial.html">Testimonial</a></li>
-                                <li><a href="login.html">Login</a></li>
-                                <li><a href="affiliate.html">Affiliate</a></li>
-                                <li><a href="404.html">404</a></li>
+                                <li><a href="">Basic Package</a></li>
+                                <li><a href="">Professional Package</a></li>
+                                <li><a href="">Advanced Package</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
