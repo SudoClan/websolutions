@@ -59,12 +59,10 @@
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Blog<span class="caret"></span></a>
+                            <a href="#" data-toggle="dropdown">IT Solutions<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="blog-sidebar-left.html">Blog Sidebar Left</a></li>
-                                <li><a href="blog-sidebar-right.html">Blog Sidebar Right</a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
+                                <li><a href="">Purchasing</a></li>
+                                <li><a href="">Office Moving</a></li>
                             </ul>
                         </li>
                         <li><a href="contact.html">Contact</a></li>
