@@ -30,6 +30,9 @@
     <!-- ====Main Stylesheet==== -->
     <link href="style.css" rel="stylesheet">
 
+    <!-- ====Custom Stylesheet==== -->
+    <link href="custom.css" rel="stylesheet">
+
     <!-- ====Responsive Stylesheet==== -->
     <link href="css/responsive-style.css" rel="stylesheet">
 
