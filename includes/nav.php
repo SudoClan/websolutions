@@ -42,35 +42,37 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.html">Home</a></li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Hosting<span class="caret"></span></a>
+                            <a href="web-services.php" data-toggle="dropdown">Web Services<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="shared-hosting.html">Shared Hosting</a></li>
-                                <li><a href="reseller-hosting.html">Reseller Hosting</a></li>
-                                <li><a href="vps-hosting.html">VPS Hosting</a></li>
-                                <li><a href="dedicated-hosting.html">Dedicated Hosting</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="domain.html">Domain</a></li>
-                        <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Pages<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
-                                <li><a href="testimonial.html">Testimonial</a></li>
-                                <li><a href="login.html">Login</a></li>
-                                <li><a href="affiliate.html">Affiliate</a></li>
-                                <li><a href="404.html">404</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="web-design.php">Web Design</a></li>
+                                <li><a href="web-maintenance.php">Web Maintenance</a></li>
+                                <li><a href="seo.php">SEO</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Blog<span class="caret"></span></a>
+                            <a href="web-hosting.php" data-toggle="dropdown">Web Hosting<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="blog-sidebar-left.html">Blog Sidebar Left</a></li>
-                                <li><a href="blog-sidebar-right.html">Blog Sidebar Right</a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
+                                <li><a href="basic-package.php">Basic Package</a></li>
+                                <li><a href="professional-package.php">Professional Package</a></li>
+                                <li><a href="advanced-package.php">Advanced Package</a></li>
                             </ul>
                         </li>
+                        <li class="dropdown">
+                            <a href="it-solutions.php" data-toggle="dropdown">IT Solutions<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="purchasing.php">Purchasing</a></li>
+                                <li><a href="moving-office.php">Office Moving</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="graphics.php" data-toggle="dropdown">Graphics<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="designing.php">Designing</a></li>
+                                <li><a href="printing.php">Printing</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="our-work.php">Our Work</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </div>
