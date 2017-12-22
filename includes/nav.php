@@ -42,12 +42,12 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.html">Home</a></li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Hosting<span class="caret"></span></a>
+                            <a href="#" data-toggle="dropdown">Web Services<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="shared-hosting.html">Shared Hosting</a></li>
-                                <li><a href="reseller-hosting.html">Reseller Hosting</a></li>
-                                <li><a href="vps-hosting.html">VPS Hosting</a></li>
-                                <li><a href="dedicated-hosting.html">Dedicated Hosting</a></li>
+                                <li><a href="">Web Development</a></li>
+                                <li><a href="">Web Design</a></li>
+                                <li><a href="">Web Maintenance</a></li>
+                                <li><a href="">SEO</a></li>
                             </ul>
                         </li>
                         <li><a href="domain.html">Domain</a></li>
