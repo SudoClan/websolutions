@@ -42,37 +42,37 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.html">Home</a></li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Web Services<span class="caret"></span></a>
+                            <a href="web-services.php" data-toggle="dropdown">Web Services<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="">Web Development</a></li>
-                                <li><a href="">Web Design</a></li>
-                                <li><a href="">Web Maintenance</a></li>
-                                <li><a href="">SEO</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="web-design.php">Web Design</a></li>
+                                <li><a href="web-maintenance.php">Web Maintenance</a></li>
+                                <li><a href="seo.php">SEO</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Web Hosting<span class="caret"></span></a>
+                            <a href="web-hosting.php" data-toggle="dropdown">Web Hosting<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="">Basic Package</a></li>
-                                <li><a href="">Professional Package</a></li>
-                                <li><a href="">Advanced Package</a></li>
+                                <li><a href="basic-package.php">Basic Package</a></li>
+                                <li><a href="professional-package.php">Professional Package</a></li>
+                                <li><a href="advanced-package.php">Advanced Package</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">IT Solutions<span class="caret"></span></a>
+                            <a href="it-solutions.php" data-toggle="dropdown">IT Solutions<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="">Purchasing</a></li>
-                                <li><a href="">Office Moving</a></li>
+                                <li><a href="purchasing.php">Purchasing</a></li>
+                                <li><a href="moving-office.php">Office Moving</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" data-toggle="dropdown">Graphics<span class="caret"></span></a>
+                            <a href="graphics.php" data-toggle="dropdown">Graphics<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="">Designing</a></li>
-                                <li><a href="">Printing</a></li>
+                                <li><a href="designing.php">Designing</a></li>
+                                <li><a href="printing.php">Printing</a></li>
                             </ul>
                         </li>
-                        <li><a href="">Our Work</a></li>
+                        <li><a href="our-work.php">Our Work</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </div>
