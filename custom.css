@@ -9,3 +9,28 @@ padding: 10px 9px;
 background-size: 100%;
 background-position: center center;
 }
+
+/*Footer*/
+.section--title.block h2 span {
+    display: inline-block;
+}
+
+.domain-search--form .input--text input {
+    padding: 8px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px 1px 1px;
+    border-color: #737373;
+    border-radius: 5px;
+    box-shadow: none;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.footer--widget {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 22px;
+}
