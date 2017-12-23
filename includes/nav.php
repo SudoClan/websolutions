@@ -28,7 +28,7 @@
                     </button>
                     <!-- Navbar Toggle Button End -->
                     <!-- Logo Start -->
-                    <a href="index.html" class="header--logo navbar-brand">
+                    <a href="index.php" class="header--logo navbar-brand">
                         <span><i class="fa fm fa-rocket"></i>Host</span>WHMCS
                     </a>
                     <!-- Logo End -->
@@ -40,7 +40,7 @@
                     </div>
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="index.html">Home</a></li>
+                        <li class="active"><a href="index.php">Home</a></li>
                         <li class="dropdown">
                             <a data-toggle="dropdown">Web Services<span class="caret"></span></a>
                             <ul class="dropdown-menu">
