@@ -3,3 +3,9 @@ position: relative;
 display: block;
 padding: 10px 9px;
 }
+
+/*bannerHome Background*/
+.banner--bg-animate{
+background-size: 100%;
+background-position: center center;
+}
