@@ -29,7 +29,7 @@
                     <!-- Navbar Toggle Button End -->
                     <!-- Logo Start -->
                     <a href="index.php" class="header--logo navbar-brand">
-                        <span><i class="fa fm fa-rocket"></i>Host</span>WHMCS
+                        <span>Web </span>Solutions
                     </a>
                     <!-- Logo End -->
                 </div>
