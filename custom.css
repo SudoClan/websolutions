@@ -9,3 +9,41 @@ padding: 10px 9px;
 background-size: 100%;
 background-position: center center;
 }
+
+h1{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding:0px;
+  margin:0px;
+  font-size: 55px;
+}
+
+.h1-sub{
+  color: rgba(255,255,255,0.6);
+}
+
+.banner--content h2{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-top: 0;
+  font-size: 1.4em;
+  font-weight: 200;
+  color: #fff !important;
+  line-height:1.3em;
+}
+
+.banner--content ul li:before{
+  color: #000 !important;
+}
+
+.banner--content ul li, .banner--content ol li{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  vertical-align: top;
+  padding: 0 0 0 10px;
+  margin: 0 0 10px;
+  line-height: 1.2em;
+  font-size: 18px;
+}
+
+.text-between-button{
+  position: relative;
+  bottom: 15px;
+}

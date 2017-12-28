@@ -12,19 +12,23 @@
                             <div class="col-md-8">
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
-                                    <h3>Shared</h3>
-                                    <h2>Hosting</h2>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At numquam laboriosam sapiente vitae repellendus itaque mollitia, quis autem! Minima debitis nemo omnis, neque accusantium amet maxime suscipit.</p>
+                                    <h1>UK'S TOP, SSD CLOUD</h1>
+                                    <h1 class="h1-sub">UNLIMITED WEB HOSTING</h1>
+                                    <br />
+                                    <h2>Unlimited SSD web hosting with 99.9%+ uptime and backed by<br />professional UK support.</h2>
 
                                     <ul>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
+                                        <li><b>Unlimited</b> SSD disk space</li>
+                                        <li><b>Unlimited</b> bandwidth</li>
+                                        <li><b>Unlimited</b> databases</li>
+                                        <li><b>Unlimited</b> websites</li>
+                                        <li><b>FREE</b> domain or transfer</li>
+                                        <li><b>FREE</b> SSL certificates</li>
+                                        <li><b>FREE</b> Website Builder</li>
+                                        <li><b>FREE</b> weekly/monthly backups</li>
                                     </ul>
 
-                                    <a href="#" class="btn--primary btn--ripple">Learn More</a>
+                                    <a href="#" class="btn--primary btn--ripple">Order Now</a> <span class="text-between-button">or</span> <a href="#" class="btn--primary btn--ripple">View Packages</a>
                                 </div>
                                 <!-- Banner Content End -->
                             </div>
