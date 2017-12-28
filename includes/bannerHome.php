@@ -9,7 +9,7 @@
                 <div class="banner--item">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-md-offset-4">
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
                                     <h3>Shared</h3>
@@ -36,7 +36,7 @@
                 <div class="banner--item">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-md-offset-4">
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
                                     <h3>VPS</h3>
@@ -63,7 +63,7 @@
                 <div class="banner--item">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-md-offset-4">
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
                                     <h3>Dedicated</h3>
