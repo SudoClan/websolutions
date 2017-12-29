@@ -9,7 +9,7 @@
         <div class="section--title">
             <div class="row">
                 <div class="col-md-6">
-                    <h2>Our <span>Services</span></h2>
+                    <h2>Ou <span>Services</span></h2>
                 </div>
                 <div class="col-md-6">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
