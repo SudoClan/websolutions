@@ -129,4 +129,85 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
   </div>
 </div>
 
+
+
+<div id="priceDetails">
+  <div class="container"> <div class="section--title"> <div class="row"> <div class="col-md-6"> <h2>Technical <span>bits...</span></h2></div>
+  <div class="col-md-6"> <p>What do you get?</p></div>
+  </div></div>
+    <div class="row reset-gutter">
+    <div class="col-md-3 price-details--item head">
+      <div class="content">
+      <ul>
+        <li><b>Plans</b></li>
+        <li>UK based support via ticket</li>
+        <li>Litespeed High Performance</li>
+        <li>CloudLinux Security</li>
+        <li>Mod Security to Protect Your Site</li>
+        <li>Unlimited Websites Single account</li>
+        <li>Modern and intuitive cPanel</li>
+        <li>Online File Manager / FTP</li>
+        <li>Weekly/Monthly backup</li>
+        <li>HotLink & Leech Protection</li></ul>
+      </div>
+    </div>
+
+    <div class="col-md-3 price-details--item body">
+      <div class="content">
+        <ul class="text-center">
+          <li><b>Launch</b></li>
+          <li><i class="fa fa-check"></i></li>
+          <li>Unlimited</li>
+          <li><i class="fa fa-check"></i></li>
+          <li>Included</li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+        </ul>
+        <div class="action-btn"> <a href="#" class="btn--primary btn--ripple">Order Now</a> </div>
+      </div>
+    </div>
+
+    <div class="col-md-3 price-details--item body">
+      <div class="content">
+        <ul class="text-center">
+          <li><b>Booster</b></li>
+          <li><i class="fa fa-check"></i></li>
+          <li>Unlimited</li>
+          <li><i class="fa fa-check"></i></li>
+          <li>Included</li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+        </ul>
+        <div class="action-btn"> <a href="#" class="btn--primary btn--ripple">Order Now</a> </div>
+      </div>
+    </div>
+
+    <div class="col-md-3 price-details--item body">
+      <div class="content">
+        <ul class="text-center">
+          <li><b>Orbit</b></li>
+          <li><i class="fa fa-check"></i></li>
+          <li>Unlimited</li>
+          <li><i class="fa fa-check"></i></li>
+          <li>Included</li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+        </ul>
+        <div class="action-btn"> <a href="#" class="btn--primary btn--ripple">Order Now</a> </div>
+      </div>
+    </div>
+
+    </div>
+  </div>
+</div>
+
 <?php include "includes/footer.php" ?>
