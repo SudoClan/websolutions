@@ -61,60 +61,6 @@
     </div>
 </div>
 <!-- Services Area End -->
-<!-- Domain Search Area Start -->
-<div id="domainSearch" class="bg--whitesmoke">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <!-- Section Title Start -->
-                <div class="section--title block">
-                    <h2>Looking A Premium Quality<span>Domain Name?</span></h2>
-                </div>
-                <!-- Section Title End -->
-                <!-- Domain Search Form Start -->
-                <div class="domain-search--form">
-                    <form action="http://billing.ywhmcs.com/domainchecker.php?systpl=HostWHMCScv1" method="post">
-                        <div class="input--text">
-                            <input type="text" name="domain" placeholder="eg. example" class="form-control">
-                            <span class="highlight"></span>
-                        </div>
-
-                        <div class="input--radio">
-                            <label class="radio-inline">
-                                <input type="radio" name="ext" value=".com" checked="checked">
-                                <span>.com</span>
-                            </label>
-                            <label class="radio-inline">
-                                <input type="radio" name="ext" value=".net">
-                                <span>.net</span>
-                            </label>
-                            <label class="radio-inline">
-                                <input type="radio" name="ext" value=".org">
-                                <span>.org</span>
-                            </label>
-                            <label class="radio-inline">
-                                <input type="radio" name="ext" value=".info">
-                                <span>.info</span>
-                            </label>
-                            <label class="radio-inline">
-                                <input type="radio" name="ext" value=".biz">
-                                <span>.biz</span>
-                            </label>
-                            <label class="radio-inline">
-                                <input type="radio" name="ext" value=".us">
-                                <span>.us</span>
-                            </label>
-                        </div>
-
-                        <button type="submit" class="btn--primary btn--ripple">Search</button>
-                    </form>
-                </div>
-                <!-- Domain Search Form End -->
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Domain Search Area End -->
 <!-- Pricing Area Start -->
 <div id="pricing">
     <div class="container">
@@ -323,39 +269,5 @@
     </div>
 </div>
 <!-- Features Area End -->
-<!-- Subscribe Area Start -->
-<div id="subscribe">
-    <div class="subscribe--sticky">
-        <div class="container">
-            <!-- Subscribe Content Start -->
-            <div class="subscribe--content" data-bg-img="img/subscribe-img/bg.png">
-                <div class="row">
-                    <div class="col-md-4">
-                        <!-- Section Title Start -->
-                        <div class="section--title block">
-                            <h2>Subscribe To Our<span>Newsletter</span></h2>
-                        </div>
-                        <!-- Section Title End -->
-                    </div>
-                    <div class="col-md-8">
-                        <!-- Subscribe Form Start -->
-                        <div class="subscribe--form">
-                            <form action="http://themelooks.us12.list-manage.com/subscribe/post?u=50e1e21235cbd751ab4c1ebaa&amp;id=ac81d988e4" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="novalidate">
-                                <div class="input--text">
-                                    <input type="text" value="" name="EMAIL" placeholder="Enter your email address">
-                                    <span class="highlight"></span>
-                                </div>
-                                <button type="submit" class="btn--primary btn--ripple">Subscribe</button>
-                            </form>
-                        </div>
-                        <!-- Subscribe Form End -->
-                    </div>
-                </div>
-            </div>
-            <!-- Subscribe Content End -->
-        </div>
-    </div>
-</div>
-<!-- Subscribe Area End -->
 
 <?php include "includes/footer.php" ?>
