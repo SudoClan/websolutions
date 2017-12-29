@@ -56,7 +56,7 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
 
 <div id="pricing" class="bg--whitesmoke">
   <div class="container">
-  <div class="section--title"> <div class="row"> <div class="col-md-6"> <h2>Pricing <span>Plans</span></h2> </div><div class="col-md-6"> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
+  <div class="section--title"> <div class="row"> <div class="col-md-6"> <h2>Choose your <span>Plan</span></h2> </div><div class="col-md-6"> <p>Get the plan that suits your business.<br />Plan that will grow your business.</p>
   </div></div></div>
     <!--<div class="row reset-gutter">-->
 
