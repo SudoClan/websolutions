@@ -51,6 +51,79 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
 </div>
 <div class="carousel-button"><a href="#" class="btn--primary btn--ripple">Read More</a></div>
 
-
 </div>
+
+
+<div id="pricing" class="bg--whitesmoke">
+  <div class="container">
+  <div class="section--title"> <div class="row"> <div class="col-md-6"> <h2>Pricing <span>Plans</span></h2> </div><div class="col-md-6"> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
+  </div></div></div>
+    <!--<div class="row reset-gutter">-->
+
+      <div class="col-md-4 pricing--item-h"> <div class="pricing--item">
+        <div class="pricing--body">
+          <div class="pricing--details">
+            <h2><strong>Launch</strong> Package</h2>
+            <hr>
+              <div class="banner--content pricing-table">
+              <ul>
+                <li class="pricing-table-p">5GB SSD Disk Space</li>
+                <li class="pricing-table-p">5GB Bandwidth</li>
+                <li class="pricing-table-p">5 Database & Emails</li>
+                <li class="pricing-table-p">Free DDoS Protection</li>
+                <li class="pricing-table-p">Free Website Builder</li>
+                <li class="pricing-table-p">Monthly Backup</li>
+                <li class="pricing-table-p">SSL Certificate (Optional)</li>
+              </ul>
+            </div>
+          </div></div>
+      <div class="pricing--footer">
+      <a href="#" class="btn--primary btn--ripple">Order Now</a>
+      </div></div></div>
+
+      <div class="col-md-4 pricing--item-h"> <div class="pricing--item">
+        <div class="pricing--body">
+          <div class="pricing--details">
+            <h2><strong>Booster</strong> Package</h2>
+            <hr>
+              <div class="banner--content pricing-table">
+              <ul>
+                <li class="pricing-table-p">5GB SSD Disk Space</li>
+                <li class="pricing-table-p">5GB Bandwidth</li>
+                <li class="pricing-table-p">5 Database & Emails</li>
+                <li class="pricing-table-p">Free DDoS Protection</li>
+                <li class="pricing-table-p">Free Website Builder</li>
+                <li class="pricing-table-p">Monthly Backup</li>
+                <li class="pricing-table-p">SSL Certificate (Optional)</li>
+              </ul>
+            </div>
+          </div></div>
+      <div class="pricing--footer">
+      <a href="#" class="btn--primary btn--ripple">Order Now</a>
+      </div></div></div>
+
+      <div class="col-md-4 pricing--item-h"> <div class="pricing--item">
+        <div class="pricing--body">
+          <div class="pricing--details">
+            <h2><strong>Orbit</strong> Package</h2>
+            <hr>
+              <div class="banner--content pricing-table">
+              <ul>
+                <li class="pricing-table-p">5GB SSD Disk Space</li>
+                <li class="pricing-table-p">5GB Bandwidth</li>
+                <li class="pricing-table-p">5 Database & Emails</li>
+                <li class="pricing-table-p">Free DDoS Protection</li>
+                <li class="pricing-table-p">Free Website Builder</li>
+                <li class="pricing-table-p">Monthly Backup</li>
+                <li class="pricing-table-p">SSL Certificate (Optional)</li>
+              </ul>
+            </div>
+          </div></div>
+      <div class="pricing--footer">
+      <a href="#" class="btn--primary btn--ripple">Order Now</a>
+      </div></div></div>
+    <!--</div>-->
+  </div>
+</div>
+
 <?php include "includes/footer.php" ?>

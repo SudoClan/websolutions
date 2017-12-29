@@ -4,7 +4,8 @@ display: block;
 padding: 10px 9px;
 }
 
-/*bannerHome Background*/
+/*Web Hosting Page START*/
+/*bannerHome Background START*/
 .banner--bg-animate{
 background-size: 100%;
 background-position: center center;
@@ -47,7 +48,9 @@ h1{
   position: relative;
   bottom: 15px;
 }
+/*bannerHome Background END*/
 
+/*Slogan Title START*/
 h3{
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:black;
@@ -55,7 +58,9 @@ h3{
   padding:10px 0px 10px 0px;
   margin:0px;
 }
+/*Slogan Title END*/
 
+/*Review carousel START*/
 .carousel-content{
   color:black;
   display:flex;
@@ -74,3 +79,28 @@ h3{
   text-align:center;
   margin-bottom:20px;
 }
+/*Review carousel END*/
+
+/*Pricing Table START*/
+.pricing--item {
+    margin-top: 50px;
+    padding-bottom: 55px;
+    background-color: white;
+    border: 0px solid #f0f0f0;
+}
+
+.section--title{
+    margin-bottom: 20px;
+}
+
+.banner--content.pricing-table{
+  padding:10px 0px 0px 0px;
+}
+
+.pricing-table-p{
+  color:black;
+  width:100% !important;
+  text-align:left;
+}
+/*Pricing Table END*/
+/*Web Hosting Page END*/
