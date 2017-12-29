@@ -64,11 +64,12 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Launch</strong> Package</h2>
+            <p>Launching your product<br />ready for take off</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
                 <li class="pricing-table-p">5GB SSD Disk Space</li>
-                <li class="pricing-table-p">5GB Bandwidth</li>
+                <li class="pricing-table-p">Unlimited Bandwidth</li>
                 <li class="pricing-table-p">5 Database & Emails</li>
                 <li class="pricing-table-p">Free DDoS Protection</li>
                 <li class="pricing-table-p">Free Website Builder</li>
@@ -85,15 +86,16 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Booster</strong> Package</h2>
+            <p>Perfect for expanding your<br />business or product</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
-                <li class="pricing-table-p">5GB SSD Disk Space</li>
-                <li class="pricing-table-p">5GB Bandwidth</li>
-                <li class="pricing-table-p">5 Database & Emails</li>
+                <li class="pricing-table-p">500GB SSD Disk Space</li>
+                <li class="pricing-table-p">Unlimited Bandwidth</li>
+                <li class="pricing-table-p">Unlimited Database & Emails</li>
                 <li class="pricing-table-p">Free DDoS Protection</li>
-                <li class="pricing-table-p">Free Website Builder</li>
-                <li class="pricing-table-p">Monthly Backup</li>
+                <li class="pricing-table-p">Optimised for Apps and CMS</li>
+                <li class="pricing-table-p">Weekly Backup</li>
                 <li class="pricing-table-p">SSL Certificate (Optional)</li>
               </ul>
             </div>
@@ -106,16 +108,17 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Orbit</strong> Package</h2>
+            <p>Advanced spaceship that<br />circle the earth</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
-                <li class="pricing-table-p">5GB SSD Disk Space</li>
-                <li class="pricing-table-p">5GB Bandwidth</li>
-                <li class="pricing-table-p">5 Database & Emails</li>
+                <li class="pricing-table-p">Unlimited SSD Disk Space</li>
+                <li class="pricing-table-p">Unlimited Bandwidth</li>
+                <li class="pricing-table-p">Unlimited Database & Emails</li>
                 <li class="pricing-table-p">Free DDoS Protection</li>
-                <li class="pricing-table-p">Free Website Builder</li>
-                <li class="pricing-table-p">Monthly Backup</li>
-                <li class="pricing-table-p">SSL Certificate (Optional)</li>
+                <li class="pricing-table-p">SpamExperts Protection</li>
+                <li class="pricing-table-p">Daily Backup</li>
+                <li class="pricing-table-p">Free 256 Bit SSL Certificate</li>
               </ul>
             </div>
           </div></div>
