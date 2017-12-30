@@ -131,6 +131,265 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
 
 
 
+
+
+<div class="tiled">
+<div class="container">
+<center>
+    <h2>What do you get?</h2>
+    <hr>
+</center>
+
+<div class="row geeky-features">
+    <div class="col-sm-6">
+
+    <div class="row expanded">
+        <div class="list-group">
+            <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>UK Data Centre with full UK based support via ticket</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Litespeed Powered High Performance cPanel Hosting</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>100% SSD-Powered</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>CloudLinux Security</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+        <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Mod Security to Protect Your Site</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+            <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Unlimited Websites Under a Single Control Panel</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row expanded">
+        <div class="list-group">
+ <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                            <p>Modern and intuitive cPanel with 'Paper Lantern' Theme</p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Online File Manager / FTP / FTPs Access</p>
+            </div>
+        </div>
+    </div>
+
+
+
+        <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Weekly/monthly Web, Database and E-mail Backups</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>HotLink &amp; Leech Protection</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Unlimited Mailboxes with Auto Responders</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>SpamExperts E-Mail Protection</p>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+
+
+
+
+    <div class="col-sm-6">
+
+<div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>PHP 4, 5 and 7 Support (Versions 4.4 / 5.2 to 5.6, 7.0)</p>
+            </div>
+        </div>
+    </div>
+<div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>MySQL 5.6 / MariaDB database support</p>
+            </div>
+        </div>
+    </div>
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Secure WebMail (RoundCube, Horde and SquirrelMail)</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Mailing List Support</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>phpMyAdmin Database Control</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Full PHP Memory / Timeout and Upload Control</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>CGI &amp; Perl Script Support</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>CronJob / Scheduled Task Support</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Zend Guard Loader v3.3 Support</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Mcrypt and ionCube PHP Support</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row expanded">
+        <div class="list-group">
+             <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+                <p>Custom 404 Error Pages</p>
+            </div>
+        </div>
+    </div>
+ <div class="row expanded">
+        <div class="list-group">
+ <div class="col-xs-1"><i class="fa fa-check txt-cool-blue"></i></div>
+            <div class="col-xs-11">
+            <p>POP3 / POP3s and IMAP / IMAPS Support</p>
+            </div>
+        </div>
+    </div>
+
+    </div>
+</div>
+
+
+
+
+
+<br><br>
+
+</div>
+</div>
+
+
+
+
+
 <div id="priceDetails">
   <div class="container"> <div class="section--title"> <div class="row"> <div class="col-md-6"> <h2>Technical <span>bits...</span></h2></div>
   <div class="col-md-6"> <p>What do you get?</p></div>
