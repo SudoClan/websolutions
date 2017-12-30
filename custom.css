@@ -57,7 +57,7 @@ h1{
 /*bannerHome Background END*/
 
 /*Slogan Title START*/
-h3{
+.reviewTitle{
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:black;
   text-align:center;
