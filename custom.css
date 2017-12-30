@@ -37,9 +37,6 @@ h1{
   line-height:1.3em;
 }
 
-.banner--content ul li:before{
-  color: #000 !important;
-}
 
 .banner--content ul li, .banner--content ol li{
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
