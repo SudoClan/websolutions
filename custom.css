@@ -106,4 +106,13 @@ h1{
   text-align:left;
 }
 /*Pricing Table END*/
+
+
+/* START Line Spacing Technical , what do you get list */
+.techList{
+  line-height: 2em;
+}
+
+
+/* END Line Spacing Technical , what do you get list */
 /*Web Hosting Page END*/

@@ -140,7 +140,7 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
     <hr>
 </center>
 
-<div class="row geeky-features">
+<div class="row geeky-features techList">
     <div class="col-sm-6">
 
     <div class="row expanded">
