@@ -140,15 +140,27 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
       <div class="content">
       <ul>
         <li><b>Plans</b></li>
-        <li>UK based support via ticket</li>
-        <li>Litespeed High Performance</li>
-        <li>CloudLinux Security</li>
-        <li>Mod Security to Protect Your Site</li>
-        <li>Unlimited Websites Single account</li>
-        <li>Modern and intuitive cPanel</li>
-        <li>Online File Manager / FTP</li>
-        <li>Weekly/Monthly backup</li>
-        <li>HotLink & Leech Protection</li></ul>
+        <li>Number of websites</li>
+        <li>Web space (100% SSD)</li>
+        <li>FREE Website Builder</li>
+        <li>Bandwidth</li>
+        <li>Mailboxes</li>
+        <li>MySQL databases</li>
+        <li>Subdomains</li>
+        <li>FREE backups</li>
+        <li>FREE 256-bit SSL certificates</li>
+        <li>FREE cPanel migrations</li>
+        <li>FREE domain name</li>
+        <li>FREE 1-click installs</li>
+        <li>Uptime guarantee</li>
+        <li>LVE Memory (RAM)</li>
+        <li>CPU cores</li>
+        <li>Entry processes</li>
+        <li>Setup fee</li>
+        <li>Money back guarantee</li>
+        <li>Billing: Pay yearly bonus</li>
+        <li>Billing: Pay every 3 years bonus</li>
+      </ul>
       </div>
     </div>
 
@@ -160,6 +172,17 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
           <li>Unlimited</li>
           <li><i class="fa fa-check"></i></li>
           <li>Included</li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
@@ -183,6 +206,17 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
           <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
         </ul>
         <div class="action-btn"> <a href="#" class="btn--primary btn--ripple">Order Now</a> </div>
       </div>
@@ -196,6 +230,17 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
           <li>Unlimited</li>
           <li><i class="fa fa-check"></i></li>
           <li>Included</li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
+          <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
           <li><i class="fa fa-check"></i></li>
