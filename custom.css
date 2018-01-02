@@ -63,6 +63,12 @@ h1{
 }
 /*Slogan Title END*/
 
+/*Reviews START*/
+.reviewHeading{
+  margin-top: 50px;
+}
+/*Reviews ENd*/
+
 /*Review carousel START*/
 .carousel-content{
   color:black;
