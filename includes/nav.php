@@ -53,9 +53,9 @@
                         <li class="dropdown">
                             <a data-toggle="dropdown">Web Hosting<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="web-hosting.php">Basic Package</a></li>
-                                <li><a href="web-hosting.php">Professional Package</a></li>
-                                <li><a href="web-hosting.php">Advanced Package</a></li>
+                                <li><a href="web-hosting.php">Launch Package</a></li>
+                                <li><a href="web-hosting.php">Booster Package</a></li>
+                                <li><a href="web-hosting.php">Orbit Package</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
