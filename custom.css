@@ -1,11 +1,124 @@
+/*Global Settings START*/
+.btn--primary{
+  border-radius: 5px;
+}
+/*Global Settings END*/
+
 .nav>li>a {
 position: relative;
 display: block;
 padding: 10px 9px;
 }
 
-/*bannerHome Background*/
+/*Web Hosting Page START*/
+/*bannerHome Background START*/
 .banner--bg-animate{
 background-size: 100%;
 background-position: center center;
 }
+
+h1{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding:0px;
+  margin:0px;
+  font-size: 55px;
+}
+
+.h1-sub{
+  color: rgba(255,255,255,0.6);
+}
+
+.banner--content h2{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-top: 0;
+  font-size: 1.4em;
+  font-weight: 200;
+  color: #fff !important;
+  line-height:1.3em;
+}
+
+
+.banner--content ul li, .banner--content ol li{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  vertical-align: top;
+  padding: 0 0 0 10px;
+  margin: 0 0 10px;
+  line-height: 1.2em;
+  font-size: 18px;
+}
+
+.text-between-button{
+  position: relative;
+  bottom: 15px;
+}
+/*bannerHome Background END*/
+
+/*Slogan Title START*/
+.reviewTitle{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:black;
+  text-align:center;
+  padding:10px 0px 10px 0px;
+  margin:0px;
+}
+/*Slogan Title END*/
+
+/*Reviews START*/
+.reviewHeading{
+  margin-top: 50px;
+}
+/*Reviews ENd*/
+
+/*Review carousel START*/
+.carousel-content{
+  color:black;
+  display:flex;
+  align-items:center;
+  text-align:center;
+  font-size: 18px;
+}
+
+#text-carousel {
+  width: 100%;
+  height: auto;
+  padding: 20px;
+}
+
+.carousel-button{
+  text-align:center;
+  margin-bottom:20px;
+}
+/*Review carousel END*/
+
+/*Pricing Table START*/
+.pricing--item {
+    margin-top: 50px;
+    padding-bottom: 55px;
+    background-color: white;
+    border: 0px solid #f0f0f0;
+}
+
+.section--title{
+    margin-bottom: 20px;
+}
+
+.banner--content.pricing-table{
+  padding:10px 0px 0px 0px;
+}
+
+.pricing-table-p{
+  color:black;
+  width:100% !important;
+  text-align:left;
+}
+/*Pricing Table END*/
+
+
+/* START Line Spacing Technical , what do you get list */
+.techList{
+  line-height: 2em;
+}
+
+
+/* END Line Spacing Technical , what do you get list */
+/*Web Hosting Page END*/
