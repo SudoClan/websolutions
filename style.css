@@ -693,7 +693,8 @@ p:last-child {
     background-color: #fff;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.14), 0 2px 4px rgba(0, 0, 0, 0.28);
 }
-#header.sticky .header--navbar a {
+#header.
+ .header--navbar a {
     color: #232c3b;
     -webkit-transition: color 0.25s ease;
             transition: color 0.25s ease;
@@ -959,7 +960,6 @@ p:last-child {
     width: 1170px;
     height: 100%;
     margin: 0 auto;
-    background-image: url("img/domain-search-img/01.png");
     background-repeat: no-repeat;
     background-position: 100% 100%;
 }
@@ -2509,8 +2509,8 @@ p:last-child {
 
 /* 24.2. FOOTER WIDGET */
 .footer--widget {
-    margin-top: 165px;
-    margin-bottom: 45px;
+    margin-top: 90px;
+    margin-bottom: 90px;
     color: #fff;
     font-size: 14px;
     line-height: 22px;

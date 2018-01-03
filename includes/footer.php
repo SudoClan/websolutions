@@ -1,12 +1,73 @@
+<!-- Domain Search Area Start -->
+<div id="domainSearch" class="bg--whitesmoke">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <!-- Section Title Start -->
+                <div class="section--title block col-md-12">
+                    <h2>Search and Register a <span>Domain</span></h2>
+                </div>
+                <!-- Section Title End -->
+                <!-- Domain Search Form Start -->
+                <div class="domain-search--form">
+                    <form action="http://billing.ywhmcs.com/domainchecker.php?systpl=HostWHMCScv1" method="post" novalidate="novalidate">
+
+<div class="input--text col-md-8">
+                            <input type="text" name="domain" placeholder="eg. example" class="form-control">
+                            <span class="highlight"></span>
+                        </div>
+
+<div class="col-md-2">
+	<button type="submit" class="btn--primary btn--ripple"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -50.078px; left: 12.922px;"></span>Search</button>
+</div><div class="col-md-2">
+	<button type="submit" class="btn--primary btn--ripple"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -50.078px; left: 12.922px;"></span>Search</button>
+</div>
+
+                        <div class="col-md-12">
+<div class="input--radio">
+                            <label class="radio-inline">
+                                <input type="radio" name="ext" value=".com" checked="checked">
+                                <span>.com</span>
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="ext" value=".net">
+                                <span>.net</span>
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="ext" value=".org">
+                                <span>.org</span>
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="ext" value=".info">
+                                <span>.info</span>
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="ext" value=".biz">
+                                <span>.biz</span>
+                            </label>
+                            <label class="radio-inline">
+                                <input type="radio" name="ext" value=".us">
+                                <span>.us</span>
+                            </label>
+                        </div>
+                      </div>
+                    </form>
+                </div>
+                <!-- Domain Search Form End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Domain Search Area End -->
 <!-- Footer Area Start -->
-<footer id="footer">
+<footer id="footer" class="bg--img" style="background-image: url(&quot;img/footer-img/1.jpg&quot;);">
     <div class="container">
         <!-- Footer Background Image Start -->
-        <div class="footer--bg" data-bg-img="img/footer-img/bg.png"></div>
+        <div class="footer--bg"></div>
         <!-- Footer Background Image End -->
         <div class="row">
             <!-- Footer Widget Start -->
-            <div class="col-md-4 col-md-offset-2 footer--widget">
+            <div class="col-md-4 col-md-offset-1 footer--widget">
                 <!-- Footer About Widget Start -->
                 <div class="footer--about">
                     <h2>About Us</h2>
@@ -62,7 +123,7 @@
     <!-- Footer Copyright Start -->
     <div class="footer--copyright text-center">
         <div class="container">
-            <p>Copyright &copy; 2017 <a href="#">WebSolutions(London) LTD</a>. All Rights Reserved.</p>
+            <p>Copyright © 2017 <a href="#">HostWHMCS</a>. All Rights Reserved.</p>
         </div>
     </div>
     <!-- Footer Copyright End -->
