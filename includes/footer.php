@@ -16,10 +16,10 @@
                             <input type="text" name="domain" placeholder="eg. example" class="form-control">
                             <span class="highlight"></span>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-xs-6">
 	                           <button type="submit" class="btn--primary btn--ripple btn-block"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -49.0705px; left: 396.93px;"></span>Search</button>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-xs-6">
 	                           <button type="submit" class="btn--primary btn--ripple btn-block"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -17.0705px; left: 79.9295px;"></span>Transfer</button>
                         </div>
 
