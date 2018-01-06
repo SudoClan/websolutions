@@ -300,7 +300,7 @@ p:last-child {
     color: #ff4719;
 }
 .section--title.block h2 span {
-    display: block;
+    display: inline-block;
 }
 .section--title p {
     padding: 40px 0 40px 40px;
