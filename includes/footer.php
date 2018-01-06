@@ -12,19 +12,19 @@
                 <div class="domain-search--form">
                     <form action="http://billing.ywhmcs.com/domainchecker.php?systpl=HostWHMCScv1" method="post" novalidate="novalidate">
 
-<div class="input--text col-md-8">
+                        <div class="input--text col-md-12">
                             <input type="text" name="domain" placeholder="eg. example" class="form-control">
                             <span class="highlight"></span>
                         </div>
-
-<div class="col-md-2">
-	<button type="submit" class="btn--primary btn--ripple"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -50.078px; left: 12.922px;"></span>Search</button>
-</div><div class="col-md-2">
-	<button type="submit" class="btn--primary btn--ripple"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -50.078px; left: 12.922px;"></span>Search</button>
-</div>
+                        <div class="col-md-6">
+	                           <button type="submit" class="btn--primary btn--ripple btn-block"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -49.0705px; left: 396.93px;"></span>Search</button>
+                        </div>
+                        <div class="col-md-6">
+	                           <button type="submit" class="btn--primary btn--ripple btn-block"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -17.0705px; left: 79.9295px;"></span>Transfer</button>
+                        </div>
 
                         <div class="col-md-12">
-<div class="input--radio">
+                          <div class="input--radio">
                             <label class="radio-inline">
                                 <input type="radio" name="ext" value=".com" checked="checked">
                                 <span>.com</span>
