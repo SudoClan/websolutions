@@ -23,7 +23,7 @@
 	                           <button type="submit" class="btn--primary btn--ripple btn-block"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -17.0705px; left: 79.9295px;"></span>Transfer</button>
                         </div>
 
-                        <div class="col-md-12">
+                        <div class="col-xs-8">
                           <div class="input--radio">
                             <label class="radio-inline">
                                 <input type="radio" name="ext" value=".com" checked="checked">
@@ -51,6 +51,7 @@
                             </label>
                         </div>
                       </div>
+                      <div class="col-xs-12"></div>
                     </form>
                 </div>
                 <!-- Domain Search Form End -->
