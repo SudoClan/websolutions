@@ -12,18 +12,18 @@
                 <div class="domain-search--form">
                     <form action="http://billing.ywhmcs.com/domainchecker.php?systpl=HostWHMCScv1" method="post" novalidate="novalidate">
 
-                        <div class="input--text col-md-12">
-                            <input type="text" name="domain" placeholder="eg. example" class="form-control">
-                            <span class="highlight"></span>
-                        </div>
-                        <div class="col-xs-6">
-	                           <button type="submit" class="btn--primary btn--ripple btn-block"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -49.0705px; left: 396.93px;"></span>Search</button>
-                        </div>
-                        <div class="col-xs-6">
-	                           <button type="submit" class="btn--primary btn--ripple btn-block"><span class="btn--ripple-ink btn--ripple-animate" style="height: 106.156px; width: 106.156px; top: -17.0705px; left: 79.9295px;"></span>Transfer</button>
-                        </div>
+                      <div id="custom-search-input">
+                        <div class="input-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="form-group">
+                                <div class="input-group">
+                                  <input class="form-control" id="email" name="email" type="text" placeholder="e.g. example.com">
+                                    <div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
 
-                        <div class="col-xs-8">
+                        <div class="col-lg-8 col-md-8 col-sm-10 col-xs-10">
                           <div class="input--radio">
                             <label class="radio-inline">
                                 <input type="radio" name="ext" value=".com" checked="checked">
