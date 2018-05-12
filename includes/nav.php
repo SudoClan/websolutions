@@ -28,8 +28,8 @@
                     </button>
                     <!-- Navbar Toggle Button End -->
                     <!-- Logo Start -->
-                    <a href="index.php" class="header--logo navbar-brand">
-                        <span>Web </span>Solutions
+                    <a href="index.php" class="header--logo navbar-brand global-logo global-logo-hover">
+                        <span><img src="img/logo.png" style="width:250px;"/></span>
                     </a>
                     <!-- Logo End -->
                 </div>
