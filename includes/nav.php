@@ -35,9 +35,9 @@
                 </div>
                 <!-- Header Nav Start -->
                 <div id="headerNav" class="navbar-collapse collapse">
-                    <div class="header--login-btn">
+                    <!--<div class="header--login-btn">
                         <a href="login.html" class="btn--primary btn--ripple">Login</a>
-                    </div>
+                    </div>-->
 
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.php">Home</a></li>
