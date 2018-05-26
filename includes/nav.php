@@ -28,50 +28,21 @@
                     </button>
                     <!-- Navbar Toggle Button End -->
                     <!-- Logo Start -->
-                    <a href="index.php" class="header--logo navbar-brand">
-                        <span>Web </span>Solutions
+                    <a href="index.php" class="header--logo navbar-brand global-logo global-logo-hover">
+                        <span><img src="img/logo.png" style="width:250px;"/></span>
                     </a>
                     <!-- Logo End -->
                 </div>
                 <!-- Header Nav Start -->
                 <div id="headerNav" class="navbar-collapse collapse">
-                    <div class="header--login-btn">
+                    <!--<div class="header--login-btn">
                         <a href="login.html" class="btn--primary btn--ripple">Login</a>
-                    </div>
+                    </div>-->
 
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href="index.php">Home</a></li>
-                        <li class="dropdown">
-                            <a data-toggle="dropdown">Web Services<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="web-development.php">Web Development</a></li>
-                                <li><a href="web-design.php">Web Design</a></li>
-                                <li><a href="web-maintenance.php">Web Maintenance</a></li>
-                                <li><a href="seo.php">SEO</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a data-toggle="dropdown">Web Hosting<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="web-hosting.php">Launch Package</a></li>
-                                <li><a href="web-hosting.php">Booster Package</a></li>
-                                <li><a href="web-hosting.php">Orbit Package</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a data-toggle="dropdown">IT Solutions<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="it-solutions.php">Purchasing</a></li>
-                                <li><a href="it-solutions.php">Office Moving</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="graphics.php" data-toggle="dropdown">Graphics<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="graphics.php">Designing</a></li>
-                                <li><a href="graphics.php">Printing</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="web-development.php">Web Development</a></li>
+                        <li><a href="web-hosting.php">Hosting</a></li>
                         <li><a href="our-work.php">Our Work</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
