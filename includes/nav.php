@@ -29,7 +29,7 @@
                     <!-- Navbar Toggle Button End -->
                     <!-- Logo Start -->
                     <a href="index.php" class="header--logo navbar-brand global-logo global-logo-hover">
-                        <span><img src="img/logo.png" style="width:250px;"/></span>
+                        <span><img src="img/logo.png" class="logo-header" style="width:250px;"/></span>
                     </a>
                     <!-- Logo End -->
                 </div>
