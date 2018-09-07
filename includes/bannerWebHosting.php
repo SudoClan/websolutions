@@ -29,7 +29,7 @@
                                         <li><b>FREE</b> weekly/monthly backups</li>
                                     </ul>
 
-                                    <a href="#" class="btn--primary btn--ripple">Order Now</a> <span class="text-between-button">or</span> <a href="#pricing" class="btn--primary btn--ripple">View Packages</a>
+                                    <a href="#pricing" class="btn--primary btn--ripple">View Packages</a>
                                 </div>
                                 <!-- Banner Content End -->
                             </div>
