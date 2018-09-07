@@ -341,7 +341,7 @@
 
 
 
-
+<!--
 <div id="priceDetails" class="bg--whitesmoke">
   <div class="container"> <div class="section--title"> <div class="row"> <div class="col-md-6"> <h2>Technical <span>bits...</span></h2></div>
   <div class="col-md-6"> <p>What do you get?</p></div>
@@ -465,5 +465,5 @@
     </div>
   </div>
 </div>
-
+-->
 <?php include "includes/footer.php" ?>
