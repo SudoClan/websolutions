@@ -9,7 +9,7 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
 <div style="margin:auto;">
 <div class="col-md-3">
   <h3 class="reviewHeading">Professional &amp; reputable hosting from a company you can trust</h3>
-  <a href="#" class="btn--primary btn--ripple">Read More</a>
+  <a href="https://www.reviewcentre.com/website_design_companies/websolutions_london_limited_-_websolutionsservices-reviews_3643705" class="btn--primary btn--ripple" target="_blank">Read More</a>
 </div>
 
 <div class="col-md-3">
