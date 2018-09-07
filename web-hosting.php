@@ -12,6 +12,7 @@
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Launch</strong> Package</h2>
+            <h3>£1.99/mo</h3>
             <p>Launching your product<br />ready for take off</p>
             <hr>
               <div class="banner--content pricing-table">
@@ -34,6 +35,7 @@
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Booster</strong> Package</h2>
+            <h3>£3.49/mo</h3>
             <p>Perfect for expanding your<br />business or product</p>
             <hr>
               <div class="banner--content pricing-table">
@@ -56,6 +58,7 @@
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Orbit</strong> Package</h2>
+            <h3>£4.99/mo</h3>
             <p>Advanced spaceship that<br />circle the earth</p>
             <hr>
               <div class="banner--content pricing-table">
