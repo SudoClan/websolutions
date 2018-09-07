@@ -1,10 +1,6 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
 <?php include "includes/bannerWebHosting.php" ?>
-<?php include "includes/reviews.php" ?>
-
-
-<br />
 
 <div id="pricing" class="bg--whitesmoke">
   <div class="container">
@@ -329,11 +325,7 @@
     </div>
 </div>
 
-
-
-
-
-<br><br>
+<br>
 
 </div>
 </div>
@@ -466,4 +458,6 @@
   </div>
 </div>
 -->
+
+<?php include "includes/reviews.php" ?>
 <?php include "includes/footer.php" ?>
