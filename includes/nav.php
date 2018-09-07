@@ -41,7 +41,7 @@
                     </div>-->
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li class="active"><a href="index.php">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="web-development.php">Web Development</a></li>
                         <li><a href="web-hosting.php">Hosting</a></li>
                         <li><a href="our-work.php">Our Work</a></li>
