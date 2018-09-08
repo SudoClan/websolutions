@@ -24,8 +24,8 @@
                                 <img src="img/feature-img/icon-01.png" alt="" class="img-responsive center-block">
                             </div>
                             <div class="feature--content">
-                                <h2><span>Professional UK</span> Support</h2>
-                                <p>Web Solutions is Based In London, UK and will be at hand to help.</p>
+                                <h2><span>CMS</span> System</h2>
+                                <p>We develop using the latest content management and give the client the option to choose from wither WordPress, Joomla or Drupal. Edit your website with delight!</p>
                             </div>
                         </div>
                         <!-- Feature Item End -->
@@ -37,8 +37,8 @@
                                 <img src="img/feature-img/icon-02.png" alt="" class="img-responsive center-block">
                             </div>
                             <div class="feature--content">
-                                <h2><span>45 Day</span> Guarantee</h2>
-                                <p>We believe in our service and work.</p>
+                                <h2><span>BESPOKE</span> Websites</h2>
+                                <p>All our websites are bespoke and use a no template policy. Our objective always is to design, develop and then execute.</p>
                             </div>
                         </div>
                         <!-- Feature Item End -->
@@ -50,13 +50,58 @@
                                 <img src="img/feature-img/icon-03.png" alt="" class="img-responsive center-block">
                             </div>
                             <div class="feature--content">
-                                <h2><span>Latest</span> Tech</h2>
-                                <p>Using tech that is safe and secure aswell as the leading.</p>
+                                <h2><span>LOGO</span> Design</h2>
+                                <p>We design you a unique logo of your choice with the given package. We can achieve any look of your choice, or better that give us creative control.</p>
                             </div>
                         </div>
                         <!-- Feature Item End -->
                     </div>
                 </div>
+                  <hr>
+                  <br>
+
+                  <div class="row">
+                      <div class="col-md-4 feature--item-h">
+                          <!-- Feature Item Start -->
+                          <div class="feature--item">
+                              <div class="feature--icon">
+                                  <img src="img/feature-img/icon-01.png" alt="" class="img-responsive center-block">
+                              </div>
+                              <div class="feature--content">
+                                  <h2><span>SEO</span> Optimised</h2>
+                                  <p>The website will be built with SEO in mind. In doing so all platforms will be laid out to the site in order for the on page optimisation to take place.</p>
+                              </div>
+                          </div>
+                          <!-- Feature Item End -->
+                      </div>
+                      <div class="col-md-4 feature--item-h">
+                          <!-- Feature Item Start -->
+                          <div class="feature--item">
+                              <div class="feature--icon">
+                                  <img src="img/feature-img/icon-02.png" alt="" class="img-responsive center-block">
+                              </div>
+                              <div class="feature--content">
+                                  <h2><span>UNLIMITED</span> Revisions</h2>
+                                  <p>Our homepage design has an unlimited design revision on the first stage of design. This is an ensurity you get exactly what you want.</p>
+                              </div>
+                          </div>
+                          <!-- Feature Item End -->
+                      </div>
+                      <div class="col-md-4 feature--item-h">
+                          <!-- Feature Item Start -->
+                          <div class="feature--item">
+                              <div class="feature--icon">
+                                  <img src="img/feature-img/icon-03.png" alt="" class="img-responsive center-block">
+                              </div>
+                              <div class="feature--content">
+                                  <h2><span>DEDICATED</span> Server</h2>
+                                  <p>Get a FREE .com or .co.uk of your choice, with it get 1 year FREE hosting alongside FREE emails. With our packages we cover you for the 1st year.</p>
+                              </div>
+                          </div>
+                          <!-- Feature Item End -->
+                      </div>
+                  </div>
+
                   <hr>
                   <br>
                 <div class="row">
