@@ -5,7 +5,7 @@
         <div id="features">
             <div class="container">
                 <!-- Section Title Start -->
-                <div class="section--title">
+                <!--<div class="section--title">
                     <div class="row">
                         <div class="col-md-6">
                             <h2>Services <span>Included</span></h2>
@@ -14,7 +14,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <!-- Section Title End -->
                 <div class="row">
                     <div class="col-md-4 feature--item-h">
