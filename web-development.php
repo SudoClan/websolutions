@@ -61,7 +61,7 @@
                   <br>
                 <div class="row">
                     <!-- Pricing 2 Item Start -->
-                    <div class="col-md-4 pricing-2--item">
+                    <div  class="col-md-4 pricing-2--item">
                         <div class="pricing-2--header">
                             <h3 class="pricing-2--title">Launch Package</h3>
                             <h4 class="pricing-2--price">Perfect for Launching your message out there</h4>
