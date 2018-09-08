@@ -26,11 +26,11 @@ Click Here for a Free Quote
 <footer id="footer">
     <div class="container">
         <!-- Footer Background Image Start -->
-        <div class="footer--bg" data-bg-img="img/footer-img/bg.png"></div>
+        <!--<div class="footer--bg" data-bg-img="img/footer-img/bg.png"></div>-->
         <!-- Footer Background Image End -->
         <div class="row">
             <!-- Footer Widget Start -->
-            <div class="col-md-4 col-md-offset-2 footer--widget">
+            <div class="col-md-4  footer--widget">
                 <!-- Footer About Widget Start -->
                 <div class="footer--about">
                     <h2>About Us</h2>
@@ -41,7 +41,7 @@ Click Here for a Free Quote
             </div>
             <!-- Footer Widget End -->
             <!-- Footer Widget Start -->
-            <div class="col-md-3 footer--widget">
+            <div class="col-md-4 footer--widget">
                 <!-- Footer Links Widget Start -->
                 <div class="footer--links">
                     <h2>Useful Links</h2>
@@ -57,7 +57,7 @@ Click Here for a Free Quote
             </div>
             <!-- Footer Widget End -->
             <!-- Footer Widget Start -->
-            <div class="col-md-3 footer--widget">
+            <div class="col-md-4 footer--widget">
                 <!-- Footer Contact Widget Start -->
                 <div class="footer--contact">
                     <h2>Contact</h2>
