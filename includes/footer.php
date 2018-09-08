@@ -88,7 +88,7 @@ Click Here for a Free Quote
     <!-- Footer Copyright Start -->
     <div class="footer--copyright text-center">
         <div class="container">
-            <p>Copyright &copy; 2014 - 2018 <a href="#">WebSolutions(London) LTD</a>. All Rights Reserved.</p>
+            <p>Copyright &copy; 2014 - 2018. <b>Websolutions (London) Limited</b>, Registered in England and Wales. <b>Company Number:</b> 09268011. All Rights Reserved.</p>
         </div>
     </div>
     <!-- Footer Copyright End -->
