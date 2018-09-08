@@ -125,7 +125,7 @@
                     <div class="col-md-4 pricing-2--item">
                         <div class="pricing-2--header">
                             <h2><b>Orbit Package</b></h2>
-                            <h4>Whatever you needs are to be Bespoke, We Will Help</h4>
+                            <h4>Whatever your Bespoke requirements are, we will help</h4>
                         </div>
                     </div>
                     <!-- Pricing 2 Item End -->
