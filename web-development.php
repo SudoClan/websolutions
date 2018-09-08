@@ -137,7 +137,6 @@
         </div>
 
         <!-- Features Area End -->
-
         <script src ="https://form.jotformeu.com/static/feedback2.js" type="text/javascript"></script><script type="text/javascript">
         var JFL_82501696084359 = new JotformFeedback({
           formId: '82501696084359',
@@ -151,9 +150,16 @@
           openOnLoad: false
         });
     </script>
-      <a class="btn--primary btn--ripple btn lightbox-82501696084359" style="margin-top: 16px">
-        Quote Form
+
+    <div class="" style="background:black;">
+        <div class="row">
+            <div style="margin:auto; text-align:center;">
+      <a class="btn--primary btn--ripple btn lightbox-82501696084359" style="margin:30px;">
+        Click Here for a Free Quote
       </a>
+          </div>
+        </div>
+    </div>
 
 <?php include "includes/reviews.php" ?>
 <?php include "includes/footer.php" ?>
