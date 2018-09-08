@@ -34,7 +34,7 @@ Click Here for a Free Quote
                 <!-- Footer About Widget Start -->
                 <div class="footer--about">
                     <h2>About Us</h2>
-                    <p>Web Solutions established in 2014, London Company, London team, providing wide range of services. Helping different individuals & businesses such as Pharmacies, Restaurants, Driving Instructors, Dry Cleaners, Accountancy and more!</p>
+                    <p>Web Solutions established in 2014, a London Company, London team, providing wide range of services. Helping different individuals & businesses such as Pharmacies, Restaurants, Driving Instructors, Dry Cleaners, Accountancy, Property Agencies and more!</p>
                 </div>
                 <!-- Footer About Widget End -->
             </div>
@@ -46,13 +46,13 @@ Click Here for a Free Quote
                     <h2>Useful Links</h2>
                     <ul>
                         <li><a href="index.php"><i class="fa fm fa-angle-double-right"></i>Home</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Web Development</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Hosting</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Our Work</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Contact Us</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Terms & Conditions</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Privacy Policy</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Cookie Policy</a></li>
+                        <li><a href="web-development.php"><i class="fa fm fa-angle-double-right"></i>Web Development</a></li>
+                        <li><a href="web-hosting.php"><i class="fa fm fa-angle-double-right"></i>Hosting</a></li>
+                        <li><a href="our-work.php"><i class="fa fm fa-angle-double-right"></i>Our Work</a></li>
+                        <li><a href="contact.php"><i class="fa fm fa-angle-double-right"></i>Contact Us</a></li>
+                        <li><a href="terms-and-conditions.php"><i class="fa fm fa-angle-double-right"></i>Terms & Conditions</a></li>
+                        <li><a href="privacy-policy.php"><i class="fa fm fa-angle-double-right"></i>Privacy Policy</a></li>
+                        <li><a href="cookie-policy.php"><i class="fa fm fa-angle-double-right"></i>Cookie Policy</a></li>
                     </ul>
                 </div>
                 <!-- Footer Links Widget End -->
@@ -63,20 +63,21 @@ Click Here for a Free Quote
                 <!-- Footer Contact Widget Start -->
                 <div class="footer--contact">
                     <h2>Contact</h2>
-                    <a href="#" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-comment"></i>LIVE CHAT</a>
-                    <a href="tel:+444000000" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-phone"></i>+444 000 000</a>
-                    <a href="mailto:example@example.com" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-envelope"></i>example@example.com</a>
+                    <!--<a href="#" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-comment"></i>LIVE CHAT</a>-->
+                    <a href="tel:02080640276" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-phone"></i>0208 064 0276</a>
+                    <a href="mailto:info@websolutions.services" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-envelope"></i>info@websolutions.services</a>
+                    <a href="https://www.reviewcentre.com/website_design_companies/websolutions_london_limited_-_websolutionsservices-reviews_3643705" class="btn-block btn--primary btn--ripple" target="_blank"><i class="fa fm fa-envelope"></i>Testimonial</a>
 
                     <div class="footer--contact-social">
                         <ul class="nav navbar-nav">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             <li><a href="#"><i class="fa fa-youtube"></i></a></li>
                             <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                            <li><a href="#"><i class="fa fa-github"></i></a></li>
+                            <li><a href="#"><i class="fa fa-github"></i></a></li>-->
                         </ul>
                     </div>
                 </div>
