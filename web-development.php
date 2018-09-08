@@ -151,10 +151,10 @@
         });
     </script>
 
-    <div class="" style="background:black;">
+    <div class="" style="background:#ff4719;">
         <div class="row">
             <div style="margin:auto; text-align:center;">
-      <a class="btn--primary btn--ripple btn lightbox-82501696084359" style="margin:30px;">
+      <a class="btn--primary btn--ripple btn lightbox-82501696084359" style="margin:30px; font-size:30px;">
         Click Here for a Free Quote
       </a>
           </div>
