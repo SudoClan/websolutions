@@ -7,7 +7,7 @@ var JFL_82501696084359 = new JotformFeedback({
   fontColor: '#ffffff',
   type: '1',
   height: 500,
-  width: auto,
+  width: 700,
   openOnLoad: false
 });
 </script>
