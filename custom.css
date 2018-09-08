@@ -131,3 +131,8 @@ h1{
 .footer--widget{
   margin-top: 45px;
 }
+
+/*Colour Changes*/
+.btn--primary{
+  background-color: #e82121 !important;
+}
