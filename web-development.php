@@ -21,7 +21,7 @@
                         <!-- Feature Item Start -->
                         <div class="feature--item">
                             <div class="feature--icon">
-                                <img src="img/feature-img/icon-01.png" alt="" class="img-responsive center-block">
+                                <img src="img/icons/cms.jpg" alt="" class="img-responsive center-block">
                             </div>
                             <div class="feature--content">
                                 <h2><span>CMS</span> System</h2>
@@ -34,7 +34,7 @@
                         <!-- Feature Item Start -->
                         <div class="feature--item">
                             <div class="feature--icon">
-                                <img src="img/feature-img/icon-02.png" alt="" class="img-responsive center-block">
+                                <img src="img/icons/bespoke-website.jpg" alt="" class="img-responsive center-block">
                             </div>
                             <div class="feature--content">
                                 <h2><span>BESPOKE</span> Websites</h2>
@@ -47,7 +47,7 @@
                         <!-- Feature Item Start -->
                         <div class="feature--item">
                             <div class="feature--icon">
-                                <img src="img/feature-img/icon-03.png" alt="" class="img-responsive center-block">
+                                <img src="img/icons/logo-design.jpg" alt="" class="img-responsive center-block">
                             </div>
                             <div class="feature--content">
                                 <h2><span>LOGO</span> Design</h2>
@@ -65,7 +65,7 @@
                           <!-- Feature Item Start -->
                           <div class="feature--item">
                               <div class="feature--icon">
-                                  <img src="img/feature-img/icon-01.png" alt="" class="img-responsive center-block">
+                                  <img src="img/icons/seo-optimised.jpg" alt="" class="img-responsive center-block">
                               </div>
                               <div class="feature--content">
                                   <h2><span>SEO</span> Optimised</h2>
@@ -78,7 +78,7 @@
                           <!-- Feature Item Start -->
                           <div class="feature--item">
                               <div class="feature--icon">
-                                  <img src="img/feature-img/icon-02.png" alt="" class="img-responsive center-block">
+                                  <img src="img/icons/unlimited-revisions.jpg" alt="" class="img-responsive center-block">
                               </div>
                               <div class="feature--content">
                                   <h2><span>UNLIMITED</span> Revisions</h2>
@@ -91,7 +91,7 @@
                           <!-- Feature Item Start -->
                           <div class="feature--item">
                               <div class="feature--icon">
-                                  <img src="img/feature-img/icon-03.png" alt="" class="img-responsive center-block">
+                                  <img src="img/icons/dedicated-server.jpg" alt="" class="img-responsive center-block">
                               </div>
                               <div class="feature--content">
                                   <h2><span>DEDICATED</span> Server</h2>
@@ -108,24 +108,24 @@
                     <!-- Pricing 2 Item Start -->
                     <div  class="col-md-4 pricing-2--item">
                         <div class="pricing-2--header">
-                            <h3 class="pricing-2--title">Launch Package</h3>
-                            <h4 class="pricing-2--price">Perfect for Launching your message out there</h4>
+                            <h2><b>Launch Package</b></h2>
+                            <h4>Perfect for Launching your message out there</h4>
                         </div>
                     </div>
                     <!-- Pricing 2 Item End -->
                     <!-- Pricing 2 Item Start -->
                     <div class="col-md-4 pricing-2--item">
                         <div class="pricing-2--header">
-                            <h3 class="pricing-2--title">Booster Package</h3>
-                            <h4 class="pricing-2--price">Perfect for expanding your business or product</h4>
+                            <h2><b>Booster Package</b></h2>
+                            <h4>Perfect for expanding your business or product</h4>
                         </div>
                     </div>
                     <!-- Pricing 2 Item End -->
                     <!-- Pricing 2 Item Start -->
                     <div class="col-md-4 pricing-2--item">
                         <div class="pricing-2--header">
-                            <h3 class="pricing-2--title">Orbit Package</h3>
-                            <h4 class="pricing-2--price">Whatever you needs are to be Bespoke, We Will Help</h4>
+                            <h2><b>Orbit Package</b></h2>
+                            <h4>Whatever you needs are to be Bespoke, We Will Help</h4>
                         </div>
                     </div>
                     <!-- Pricing 2 Item End -->
