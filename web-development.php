@@ -1,7 +1,6 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
 <?php include "includes/bannerWebDevelopment.php" ?>
-<?php include "includes/reviews.php" ?>
 <!-- Features Area Start -->
         <div id="features">
             <div class="container">
@@ -90,5 +89,5 @@
         </div>
         <!-- Features Area End -->
 
-
+<?php include "includes/reviews.php" ?>
 <?php include "includes/footer.php" ?>
