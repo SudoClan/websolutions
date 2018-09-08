@@ -7,13 +7,13 @@ var JFL_82501696084359 = new JotformFeedback({
   fontColor: '#ffffff',
   type: '1',
   height: 500,
-  width: 700,
+  width: auto,
   openOnLoad: false
 });
 </script>
 
 <div class="" style="background:#ff4719;">
-<div class="row">
+<div class="">
     <div style="margin:auto; text-align:center;">
 <a class="btn--primary btn--ripple btn lightbox-82501696084359" style="margin:30px; font-size:30px;">
 Click Here for a Free Quote
@@ -30,12 +30,11 @@ Click Here for a Free Quote
         <!-- Footer Background Image End -->
         <div class="row">
             <!-- Footer Widget Start -->
-            <div class="col-md-4  footer--widget">
+            <div class="col-md-4 footer--widget">
                 <!-- Footer About Widget Start -->
                 <div class="footer--about">
                     <h2>About Us</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In odio pariatur nobis blanditiis, non labore quidem sapiente provident dolorem et atque distinctio deleniti mollitia nostrum velit iste, aperiam eaque! Soluta! Impedit harum quis maxime ducimus  laborum nesciunt soluta tempore aperiam ex quasi minus.</p>
-                    <a href="#"><i class="fa fm fa-angle-double-right"></i>Read More</a>
+                    <p>Web Solutions established in 2014, London Company, London team, providing wide range of services. Helping different individuals & businesses such as Pharmacies, Restaurants, Driving Instructors, Dry Cleaners, Accountancy and more!</p>
                 </div>
                 <!-- Footer About Widget End -->
             </div>
@@ -46,11 +45,14 @@ Click Here for a Free Quote
                 <div class="footer--links">
                     <h2>Useful Links</h2>
                     <ul>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>About Us</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>FAQ</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Terms of Service</a></li>
-                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Privacy</a></li>
+                        <li><a href="index.php"><i class="fa fm fa-angle-double-right"></i>Home</a></li>
+                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Web Development</a></li>
+                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Hosting</a></li>
+                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Our Work</a></li>
                         <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Contact Us</a></li>
+                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Terms & Conditions</a></li>
+                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Privacy Policy</a></li>
+                        <li><a href="#"><i class="fa fm fa-angle-double-right"></i>Cookie Policy</a></li>
                     </ul>
                 </div>
                 <!-- Footer Links Widget End -->
@@ -86,7 +88,7 @@ Click Here for a Free Quote
     <!-- Footer Copyright Start -->
     <div class="footer--copyright text-center">
         <div class="container">
-            <p>Copyright &copy; 2017 <a href="#">WebSolutions(London) LTD</a>. All Rights Reserved.</p>
+            <p>Copyright &copy; 2014 - 2018 <a href="#">WebSolutions(London) LTD</a>. All Rights Reserved.</p>
         </div>
     </div>
     <!-- Footer Copyright End -->

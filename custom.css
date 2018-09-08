@@ -122,3 +122,12 @@ h1{
 
 /* END Line Spacing Technical , what do you get list */
 /*Web Hosting Page END*/
+
+/*Footer*/
+#footer{
+  z-index:0;
+}
+
+.footer--widget{
+  margin-top: 45px;
+}
