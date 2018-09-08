@@ -117,7 +117,7 @@
                     <div class="col-md-4 pricing-2--item">
                         <div class="pricing-2--header">
                             <h3 class="pricing-2--title">Booster Package</h3>
-                            <h4 class="pricing-2--price">Perfect for selling your Products</h4>
+                            <h4 class="pricing-2--price">Perfect for expanding your business or product</h4>
                         </div>
                     </div>
                     <!-- Pricing 2 Item End -->
@@ -125,13 +125,17 @@
                     <div class="col-md-4 pricing-2--item">
                         <div class="pricing-2--header">
                             <h3 class="pricing-2--title">Orbit Package</h3>
-                            <h4 class="pricing-2--price">Whatever you need be it Bespoke, We Will Help</h4>
+                            <h4 class="pricing-2--price">Whatever you needs are to be Bespoke, We Will Help</h4>
                         </div>
                     </div>
                     <!-- Pricing 2 Item End -->
+                    <div style="margin:auto; text-align:center; position:relative; top:40px;">
+                      <a href="web-hosting.php" class="btn--primary btn--ripple">Find out More about our Packages</a>
+                    </div>
                 </div>
             </div>
         </div>
+
         <!-- Features Area End -->
 
 <?php include "includes/reviews.php" ?>
