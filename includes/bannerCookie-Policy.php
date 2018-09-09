@@ -13,7 +13,7 @@
                             <div class="col-md-8">
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
-                                    <h1>PRIVACY POLICY</h1>
+                                    <h1>COOKIE POLICY</h1>
 
                                     <br />
                                     </div>
