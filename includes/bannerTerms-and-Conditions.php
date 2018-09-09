@@ -13,7 +13,7 @@
                             <div class="col-md-8">
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
-                                    <h1>CONTACT</h1>
+                                    <h1>Terms and Conditions</h1>
 
                                     <br />
                                     </div>
