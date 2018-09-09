@@ -76,8 +76,8 @@
                         <img src="img/icons/shared-hosting.jpg" alt="" style="width:130px;" />
                     </div>
                     <div class="service--content">
-                        <h3><span>Shared</span> Hosting</h3>
-                        <p>Lorem ipsum dolor sit consectetur adipisicing elit ducimus pariatur.</p>
+                        <h3><span>SSD</span> Hosting</h3>
+                        <p>Feature-rich Unlimited SSD web hosting. 99.9%+ uptime and backed by professional UK support.</p>
                     </div>
                 </div>
                 <!-- Service Item End -->
@@ -90,7 +90,7 @@
                     </div>
                     <div class="service--content">
                         <h3><span>Cloud</span> Hosting</h3>
-                        <p>Lorem ipsum dolor sit consectetur adipisicing elit ducimus pariatur.</p>
+                        <p>Fast, secure, scalable and stable solution that's fully supported 24/7 by our highly-skilled team.</p>
                     </div>
                 </div>
                 <!-- Service Item End -->
@@ -102,8 +102,8 @@
                         <img src="img/icons/dedicated-server1.jpg" alt="" style="width:130px;" />
                     </div>
                     <div class="service--content">
-                        <h3><span>Dedicated</span> Server</h3>
-                        <p>Lorem ipsum dolor sit consectetur adipisicing elit ducimus pariatur.</p>
+                        <h3><span>VPS</span> Hosting</h3>
+                        <p>Your own bespoke customised VPS Hosting to suit your needs.</p>
                     </div>
                 </div>
                 <!-- Service Item End -->
