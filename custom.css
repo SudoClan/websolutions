@@ -152,3 +152,7 @@ span{
 h2 strong{
   color: #e82121 !important;
 }
+
+.col-md-2{
+  float: left;
+}
