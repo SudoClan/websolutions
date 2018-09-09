@@ -15,7 +15,7 @@ var JFL_82501696084359 = new JotformFeedback({
 <div class="" style="background:#e82121;">
 <div class="">
     <div style="margin:auto; text-align:center;">
-<a class="btn--primary btn--ripple btn lightbox-82501696084359" style="margin:30px; font-size:30px;">
+<a class="btn--primary btn--ripple btn lightbox-82501696084359 size-quote">
 Click Here for a Free Quote
 </a>
   </div>
