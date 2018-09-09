@@ -118,89 +118,36 @@
 <!-- Pricing Area Start -->
 <div id="pricing">
     <div class="container">
-        <!-- Section Title Start -->
-        <div class="section--title">
-            <div class="row">
-                <div class="col-md-6">
-                    <h2>Our <span>Pricing</span></h2>
-                </div>
-                <div class="col-md-6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
-                </div>
+    <div class="row">
+        <!-- Pricing 2 Item Start -->
+        <div  class="col-md-4 pricing-2--item">
+            <div class="pricing-2--header">
+                <h2><b>Launch Package</b></h2>
+                <h4>Perfect for Launching your message out there</h4>
             </div>
         </div>
-        <!-- Section Title End -->
-        <div class="row reset-gutter">
-            <div class="col-md-4 pricing--item-h">
-                <!-- Pricing Item Start -->
-                <div class="pricing--item">
-                    <div class="pricing--header">
-                        <div class="pricing--icon">
-                            <img src="img/pricing-img/shared.png" alt="" class="img-responsive center-block">
-                        </div>
-                    </div>
-                    <div class="pricing--body">
-                        <div class="pricing--tag">
-                            <p>Starting At <strong>$9.99</strong></p>
-                        </div>
-                        <div class="pricing--details">
-                            <h2><strong>Shared</strong> Hosting</h2>
-                            <p>Lorem ipsum dolor sit consectetur amet, adipisicing elit molestias.</p>
-                        </div>
-                    </div>
-                    <div class="pricing--footer">
-                        <a href="#" class="btn--primary btn--ripple">Order Now</a>
-                    </div>
-                </div>
-                <!-- Pricing Item End -->
-            </div>
-            <div class="col-md-4 pricing--item-h">
-                <!-- Pricing Item Start -->
-                <div class="pricing--item raised">
-                    <div class="pricing--header">
-                        <div class="pricing--icon">
-                            <img src="img/pricing-img/cloud-vps.png" alt="" class="img-responsive center-block">
-                        </div>
-                    </div>
-                    <div class="pricing--body">
-                        <div class="pricing--tag">
-                            <p>Starting At <strong>$29.99</strong></p>
-                        </div>
-                        <div class="pricing--details">
-                            <h2><strong>Cloud</strong> Hosting</h2>
-                            <p>Lorem ipsum dolor sit consectetur amet, adipisicing elit molestias.</p>
-                        </div>
-                    </div>
-                    <div class="pricing--footer">
-                        <a href="#" class="btn--primary btn--ripple">Order Now</a>
-                    </div>
-                </div>
-                <!-- Pricing Item End -->
-            </div>
-            <div class="col-md-4 pricing--item-h">
-                <!-- Pricing Item Start -->
-                <div class="pricing--item">
-                    <div class="pricing--header">
-                        <div class="pricing--icon">
-                            <img src="img/pricing-img/dedicated.png" alt="" class="img-responsive center-block">
-                        </div>
-                    </div>
-                    <div class="pricing--body">
-                        <div class="pricing--tag">
-                            <p>Starting At <strong>$49.99</strong></p>
-                        </div>
-                        <div class="pricing--details">
-                            <h2><strong>Dedicated</strong> Hosting</h2>
-                            <p>Lorem ipsum dolor sit consectetur amet, adipisicing elit molestias.</p>
-                        </div>
-                    </div>
-                    <div class="pricing--footer">
-                        <a href="#" class="btn--primary btn--ripple">Order Now</a>
-                    </div>
-                </div>
-                <!-- Pricing Item End -->
+        <!-- Pricing 2 Item End -->
+        <!-- Pricing 2 Item Start -->
+        <div class="col-md-4 pricing-2--item">
+            <div class="pricing-2--header">
+                <h2><b>Booster Package</b></h2>
+                <h4>Perfect for expanding your business or product</h4>
             </div>
         </div>
+        <!-- Pricing 2 Item End -->
+        <!-- Pricing 2 Item Start -->
+        <div class="col-md-4 pricing-2--item">
+            <div class="pricing-2--header">
+                <h2><b>Orbit Package</b></h2>
+                <h4>Whatever your Bespoke requirements are, we will help</h4>
+            </div>
+        </div>
+        <!-- Pricing 2 Item End -->
+        <div style="margin:auto; text-align:center; position:relative; top:40px;">
+          <a href="web-hosting.php" class="btn--primary btn--ripple">Find out More about our Packages</a>
+        </div>
+    </div>
+
     </div>
 </div>
 <!-- Pricing Area End -->
