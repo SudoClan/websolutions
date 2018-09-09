@@ -4,27 +4,20 @@
     <div class="vc-parent">
         <div class="vc-child">
             <!-- Banner Slider Start -->
-            <div class="banner--slider BannerSlider">
+            <div class=""> <!--Use banner--slider BannerSlider in class if you want to enable slideshow-->
                 <!-- Banner Item Start -->
                 <div class="banner--item">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6 col-md-offset-4">
                                 <!-- Banner Content Start -->
+                                <br /><br />
                                 <div class="banner--content">
-                                    <h3>Shared</h3>
-                                    <h2>Hosting</h2>
+                                    <h3>Websolutions</h3>
+                                    <h2>(London) Limited</h2>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At numquam laboriosam sapiente vitae repellendus itaque mollitia, quis autem! Minima debitis nemo omnis, neque accusantium amet maxime suscipit.</p>
+                                    <p>Web Solutions established in 2014, a London Company, London team, providing wide range of services. Helping different Individuals & Businesses such as Pharmacies, Restaurants, Driving Instructors, Dry Cleaners, Accountancy, Property Agencies and more!</p>
 
-                                    <ul>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                    </ul>
-
-                                    <a href="#" class="btn--primary btn--ripple">Learn More</a>
                                 </div>
                                 <!-- Banner Content End -->
                             </div>
@@ -32,60 +25,8 @@
                     </div>
                 </div>
                 <!-- Banner Item End -->
-                <!-- Banner Item Start -->
-                <div class="banner--item">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 col-md-offset-4">
-                                <!-- Banner Content Start -->
-                                <div class="banner--content">
-                                    <h3>VPS</h3>
-                                    <h2>Hosting</h2>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At numquam laboriosam sapiente vitae repellendus itaque mollitia, quis autem! Minima debitis nemo omnis, neque accusantium amet maxime suscipit.</p>
 
-                                    <ul>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                    </ul>
-
-                                    <a href="#" class="btn--primary btn--ripple">Learn More</a>
-                                </div>
-                                <!-- Banner Content End -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Banner Item End -->
-                <!-- Banner Item Start -->
-                <div class="banner--item">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 col-md-offset-4">
-                                <!-- Banner Content Start -->
-                                <div class="banner--content">
-                                    <h3>Dedicated</h3>
-                                    <h2>Server</h2>
-
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At numquam laboriosam sapiente vitae repellendus itaque mollitia, quis autem! Minima debitis nemo omnis, neque accusantium amet maxime suscipit.</p>
-
-                                    <ul>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                        <li>Lorem ipsum dolor sit amet.</li>
-                                    </ul>
-
-                                    <a href="#" class="btn--primary btn--ripple">Learn More</a>
-                                </div>
-                                <!-- Banner Content End -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Banner Item End -->
             </div>
             <!-- Banner Slider End -->
         </div>
