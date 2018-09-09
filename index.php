@@ -212,4 +212,5 @@
 </div>
 <!-- Features Area End -->
 
+<?php include "includes/reviews.php" ?>
 <?php include "includes/footer.php" ?>
