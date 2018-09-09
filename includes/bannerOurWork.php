@@ -1,6 +1,6 @@
 <!-- Banner Area Start -->
 <div id="banner">
-    <div class="banner--bg-animate" data-bg-img="img/banner/bannerWebHosting/header-background.jpg"></div>
+    <div class="banner--bg-animate" data-bg-img="img/banner/bannerOurWork/header-background.jpg"></div>
     <div class="vc-parent">
         <div class="vc-child">
             <!-- Banner Slider Start -->
@@ -14,7 +14,7 @@
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
                                     <h1>OUR PORTFOLIO</h1>
-                                    
+
                                     <br />
                                     </div>
                                 <!-- Banner Content End -->
