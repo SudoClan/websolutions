@@ -28,7 +28,7 @@
             </div>
           </div></div>
       <div class="pricing--footer">
-      <a href="#" class="btn--primary btn--ripple">Order Now</a>
+        <a href="tel:02080640276" class="btn--primary btn--ripple">Call us to Order</a>
       </div></div></div>
 
       <div class="col-md-4 pricing--item-h"> <div class="pricing--item">
@@ -51,7 +51,7 @@
             </div>
           </div></div>
       <div class="pricing--footer">
-      <a href="#" class="btn--primary btn--ripple">Order Now</a>
+      <a href="tel:02080640276" class="btn--primary btn--ripple">Call us to Order</a>
       </div></div></div>
 
       <div class="col-md-4 pricing--item-h"> <div class="pricing--item">
@@ -74,7 +74,7 @@
             </div>
           </div></div>
       <div class="pricing--footer">
-      <a href="#" class="btn--primary btn--ripple">Order Now</a>
+      <a href="tel:02080640276" class="btn--primary btn--ripple">Call us to Order</a>
       </div></div></div>
     <!--</div>-->
   </div>
