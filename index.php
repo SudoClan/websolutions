@@ -50,17 +50,17 @@
 </div>
 <!-- Services Area End -->
 <!-- Domain Search Area Start -->
-<div id="domainSearch" class="bg--whitesmoke">
+<!--<div id="domainSearch" class="bg--whitesmoke">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
                 <!-- Section Title Start -->
-                <div class="section--title block">
+                <!--<div class="section--title block">
                     <h2>Looking A Premium Quality<span>Domain Name?</span></h2>
                 </div>
                 <!-- Section Title End -->
                 <!-- Domain Search Form Start -->
-                <div class="domain-search--form">
+                <!--<div class="domain-search--form">
                     <form action="http://billing.ywhmcs.com/domainchecker.php?systpl=HostWHMCScv1" method="post">
                         <div class="input--text">
                             <input type="text" name="domain" placeholder="eg. example" class="form-control">
@@ -98,10 +98,10 @@
                     </form>
                 </div>
                 <!-- Domain Search Form End -->
-            </div>
+          <!--  </div>
         </div>
     </div>
-</div>
+</div>-->
 <!-- Domain Search Area End -->
 <!-- Pricing Area Start -->
 <div id="pricing">
