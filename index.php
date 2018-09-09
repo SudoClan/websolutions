@@ -211,39 +211,5 @@
     </div>
 </div>
 <!-- Features Area End -->
-<!-- Subscribe Area Start -->
-<div id="subscribe">
-    <div class="subscribe--sticky">
-        <div class="container">
-            <!-- Subscribe Content Start -->
-            <div class="subscribe--content" data-bg-img="img/subscribe-img/bg.png">
-                <div class="row">
-                    <div class="col-md-4">
-                        <!-- Section Title Start -->
-                        <div class="section--title block">
-                            <h2>Subscribe To Our<span>Newsletter</span></h2>
-                        </div>
-                        <!-- Section Title End -->
-                    </div>
-                    <div class="col-md-8">
-                        <!-- Subscribe Form Start -->
-                        <div class="subscribe--form">
-                            <form action="http://themelooks.us12.list-manage.com/subscribe/post?u=50e1e21235cbd751ab4c1ebaa&amp;id=ac81d988e4" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate="novalidate">
-                                <div class="input--text">
-                                    <input type="text" value="" name="EMAIL" placeholder="Enter your email address">
-                                    <span class="highlight"></span>
-                                </div>
-                                <button type="submit" class="btn--primary btn--ripple">Subscribe</button>
-                            </form>
-                        </div>
-                        <!-- Subscribe Form End -->
-                    </div>
-                </div>
-            </div>
-            <!-- Subscribe Content End -->
-        </div>
-    </div>
-</div>
-<!-- Subscribe Area End -->
 
 <?php include "includes/footer.php" ?>
