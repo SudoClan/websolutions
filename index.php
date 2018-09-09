@@ -214,7 +214,7 @@
                         <img src="img/feature-img/icon-01.png" alt="" class="img-responsive center-block">
                     </div>
                     <div class="feature--content">
-                        <h2><span>24/7/365</span> Support</h2>
+                        <h2><span>24/7</span> Support</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo libero debitis quos dolorum adipisci architecto provident quaerat.</p>
                     </div>
                 </div>
