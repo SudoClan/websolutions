@@ -2,15 +2,78 @@
 <?php include "includes/nav.php" ?>
 <?php include "includes/bannerHome.php" ?>
 
+<br />
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+                <!-- Service Item Start -->
+                <div class="service--item">
+                    <div class="service--icon">
+                        <img src="img/icons/platforms/wordpress.png" alt="" style="width:114px;"/>
+                    </div>
+                </div>
+                <!-- Service Item End -->
+            </div>
+            <div class="col-md-2">
+                <!-- Service Item Start -->
+                <div class="service--item">
+                    <div class="service--icon">
+                        <img src="img/icons/platforms/magento.png" alt="" />
+                    </div>
+                </div>
+                <!-- Service Item End -->
+            </div>
+            <div class="col-md-2">
+                <!-- Service Item Start -->
+                <div class="service--item">
+                    <div class="service--icon">
+                        <img src="img/icons/platforms/google.png" alt="" />
+                    </div>
+                </div>
+                <!-- Service Item End -->
+            </div>
+            <div class="col-md-2">
+                <!-- Service Item Start -->
+                <div class="service--item">
+                    <div class="service--icon">
+                        <img src="img/icons/platforms/c-panel.png" alt="" />
+                    </div>
+                </div>
+                <!-- Service Item End -->
+            </div>
+            <div class="col-md-2">
+                <!-- Service Item Start -->
+                <div class="service--item">
+                    <div class="service--icon">
+                        <img src="img/icons/platforms/letsencrypt.png" alt="" />
+                    </div>
+                </div>
+                <!-- Service Item End -->
+            </div>
+            <div class="col-md-2">
+                <!-- Service Item Start -->
+                <div class="service--item">
+                    <div class="service--icon">
+                        <img src="img/icons/platforms/r1soft-logo.png" alt="" />
+                    </div>
+                </div>
+                <!-- Service Item End -->
+            </div>
+        </div>
+    </div>
+
+<hr>
+<br>
+
+
 <!-- Services Area Start -->
-<div id="services">
     <div class="container">
         <div class="row">
             <div class="col-md-4 service--item-h">
                 <!-- Service Item Start -->
                 <div class="service--item">
                     <div class="service--icon">
-                        <img src="img/service-img/icon-01.png" alt="">
+                        <img src="img/icons/shared-hosting.jpg" alt="" style="width:130px;" />
                     </div>
                     <div class="service--content">
                         <h3><span>Shared</span> Hosting</h3>
@@ -23,7 +86,7 @@
                 <!-- Service Item Start -->
                 <div class="service--item">
                     <div class="service--icon">
-                        <img src="img/service-img/icon-02.png" alt="">
+                        <img src="img/icons/cloud-hosting.jpg" alt="" style="width:130px;" />
                     </div>
                     <div class="service--content">
                         <h3><span>Cloud</span> Hosting</h3>
@@ -36,7 +99,7 @@
                 <!-- Service Item Start -->
                 <div class="service--item">
                     <div class="service--icon">
-                        <img src="img/service-img/icon-03.png" alt="">
+                        <img src="img/icons/dedicated-server1.jpg" alt="" style="width:130px;" />
                     </div>
                     <div class="service--content">
                         <h3><span>Dedicated</span> Server</h3>
@@ -47,7 +110,7 @@
             </div>
         </div>
     </div>
-</div>
+
 <!-- Services Area End -->
 <!-- Domain Search Area Start -->
 <!--<div id="domainSearch" class="bg--whitesmoke">
