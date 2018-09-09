@@ -14,8 +14,8 @@ UK Unlimited SSD Cloud Web Hosting with cPanel</h3>
 
 <div class="col-md-3">
   <img src="img/star.png" /> <img src="img/star.png" /> <img src="img/star.png" /> <img src="img/star.png" /> <img src="img/star.png" /><br />
-  <h3>Professional streamline service</h3>
-  <p>I got a few changes done to my website. Which were fantastic as they advised me on a few things i didn't think about. All within reasonable price . Their upsell of business cards were next to none with quality and great rate.</p>
+  <h3>Highly recommended for all my needs</h3>
+  <p>I have been using websolutions for all my website requirements for over a year . The staff are willing to help at any given time to accommodate me. They are very effecient and professional. It is their personal dedication to ensure the customer is satisfied...</p>
 </div>
 
 <div class="col-md-3">
