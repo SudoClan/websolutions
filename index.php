@@ -151,66 +151,7 @@
     </div>
 </div>
 <!-- Pricing Area End -->
-<!-- Feedback Area Start -->
-<div id="feedback" class="bg--whitesmoke">
-    <div class="container">
-        <!-- Section Title Start -->
-        <div class="section--title">
-            <div class="row">
-                <div class="col-md-6">
-                    <h2>Clients <span>Feedback</span></h2>
-                </div>
-                <div class="col-md-6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
-                </div>
-            </div>
-        </div>
-        <!-- Section Title End -->
-        <div class="feedback--nav-tabs">
-            <ul class="nav nav-tabs">
-                <li>
-                    <a href="#feedbackTab1" data-toggle="tab">
-                        <img src="img/feedback-img/icon-01.png" alt="" class="img-responsive">
-                    </a>
-                </li>
-                <li class="active">
-                    <a href="#feedbackTab2" data-toggle="tab">
-                        <img src="img/feedback-img/icon-02.png" alt="" class="img-responsive">
-                    </a>
-                </li>
-                <li>
-                    <a href="#feedbackTab3" data-toggle="tab">
-                        <img src="img/feedback-img/icon-03.png" alt="" class="img-responsive">
-                    </a>
-                </li>
-                <li>
-                    <a href="#feedbackTab4" data-toggle="tab">
-                        <img src="img/feedback-img/icon-04.png" alt="" class="img-responsive">
-                    </a>
-                </li>
-            </ul>
-            <div class="feedback--triangle"></div>
-        </div>
 
-        <div class="feedback--tabs">
-            <div class="tab-content">
-                <div class="tab-pane fade" id="feedbackTab1">
-                    <blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit vitae ab id natus, saepe molestiae nisi aliquid autem blanditiis! Totam laudantium necessitatibus aspernatur, facilis quaerat voluptatibus nobis perspiciatis error nisi!</blockquote>
-                </div>
-                <div class="tab-pane fade in active" id="feedbackTab2">
-                    <blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit vitae ab id natus, saepe molestiae nisi aliquid autem blanditiis! Totam laudantium necessitatibus aspernatur, facilis quaerat voluptatibus nobis perspiciatis error nisi!</blockquote>
-                </div>
-                <div class="tab-pane fade" id="feedbackTab3">
-                    <blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit vitae ab id natus, saepe molestiae nisi aliquid autem blanditiis! Totam laudantium necessitatibus aspernatur, facilis quaerat voluptatibus nobis perspiciatis error nisi!</blockquote>
-                </div>
-                <div class="tab-pane fade" id="feedbackTab4">
-                    <blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit vitae ab id natus, saepe molestiae nisi aliquid autem blanditiis! Totam laudantium necessitatibus aspernatur, facilis quaerat voluptatibus nobis perspiciatis error nisi!</blockquote>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Feedback Area End -->
 <!-- Features Area Start -->
 <div id="features">
     <div class="container">
