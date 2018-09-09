@@ -27,7 +27,6 @@
                                         <li>We keep you notified evey step of the way</li>
                                     </ul>
 
-                                    <a href="#WebDevelop" class="btn--primary btn--ripple">Learn More</a>
                                 </div>
                                 <!-- Banner Content End -->
                             </div>
