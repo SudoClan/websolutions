@@ -49,46 +49,48 @@
   <br>
 
   <div class="row">
-      <div class="col-md-4 feature--item-h">
-          <!-- Feature Item Start -->
-          <div class="feature--item">
-              <div class="feature--icon">
-                  <img src="img/icons/seo-optimised.jpg" alt="" class="img-responsive center-block">
-              </div>
-              <div class="feature--content">
-                  <h2><span>SEO</span> Optimised</h2>
-                  <p>The website will be built with SEO in mind. In doing so all platforms will be laid out to the site in order for the on page optimisation to take place.</p>
-              </div>
-          </div>
-          <!-- Feature Item End -->
+<div class="col-md-4 feature--item-h">
+  <!-- Feature Item Start -->
+  <div class="feature--item">
+      <div class="feature--icon">
+          <img src="img/portfolio/sparemove.jpg" alt="" class="img-responsive center-block">
       </div>
-      <div class="col-md-4 feature--item-h">
-          <!-- Feature Item Start -->
-          <div class="feature--item">
-              <div class="feature--icon">
-                  <img src="img/icons/unlimited-revisions.jpg" alt="" class="img-responsive center-block">
-              </div>
-              <div class="feature--content">
-                  <h2><span>UNLIMITED</span> Revisions</h2>
-                  <p>Our homepage design has an unlimited design revision on the first stage of design. This is an ensurity you get exactly what you want.</p>
-              </div>
-          </div>
-          <!-- Feature Item End -->
-      </div>
-      <div class="col-md-4 feature--item-h">
-          <!-- Feature Item Start -->
-          <div class="feature--item">
-              <div class="feature--icon">
-                  <img src="img/icons/dedicated-server.jpg" alt="" class="img-responsive center-block">
-              </div>
-              <div class="feature--content">
-                  <h2><span>DEDICATED</span> Server</h2>
-                  <p>Get a FREE .com or .co.uk of your choice, with it get 1 year FREE hosting alongside FREE emails. With our packages we cover you for the 1st year.</p>
-              </div>
-          </div>
-          <!-- Feature Item End -->
+      <div class="feature--content">
+          <h2>Sparemove</h2>
+          <p><a href="https://www.sparemove.com/" target="_blank" style="color:black;">https://www.sparemove.com</a></p>
       </div>
   </div>
+  <!-- Feature Item End -->
+</div>
+<div class="col-md-4 feature--item-h">
+  <!-- Feature Item Start -->
+  <div class="feature--item">
+      <div class="feature--icon">
+          <img src="img/portfolio/mypropertycertificates.jpg" alt="" class="img-responsive center-block">
+      </div>
+      <div class="feature--content">
+          <h2>My Property Certificates</h2>
+          <p><a href="http://mypropertycertificates.co.uk/" target="_blank" style="color:black;">http://mypropertycertificates.co.uk</a></p>
+      </div>
+  </div>
+  <!-- Feature Item End -->
+</div>
+<div class="col-md-4 feature--item-h">
+  <!-- Feature Item Start -->
+  <div class="feature--item">
+      <div class="feature--icon">
+          <img src="img/portfolio/landlordcertslondon.jpg" alt="" class="img-responsive center-block">
+      </div>
+      <div class="feature--content">
+          <h2>Landlords Certs London</h2>
+          <p><a href="https://landlordcertslondon.co.uk/" target="_blank" style="color:black;">https://landlordcertslondon.co.uk</a></p>
+      </div>
+  </div>
+  <!-- Feature Item End -->
+</div>
+</div>
+<hr>
+<br>
 </div>
 </div>
 

@@ -14,11 +14,9 @@
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
                                     <h1>OUR PORTFOLIO</h1>
-                                    <h1 class="h1-sub">WITH A QUALIFIED TEAM BY YOUR SIDE</h1>
+                                    
                                     <br />
-                                    <h2>Unlimited SSD web hosting with 99.9%+ uptime and backed by<br />professional UK support.</h2>
-
-                                </div>
+                                    </div>
                                 <!-- Banner Content End -->
                             </div>
                         </div>
