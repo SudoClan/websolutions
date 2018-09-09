@@ -148,3 +148,7 @@ span{
 .btn--primary, #headerNav .nav > .dropdown > .dropdown-menu > li > a:hover, #headerNav .nav > .dropdown > .dropdown-menu > li > a:focus, #headerNav .nav > .dropdown > .dropdown-menu > li.active > a, #header .navbar-toggle .icon-bar, #banner .bx-pager-link.active, .domain-search--form .input--text input.valid + .highlight, .domain-search--form .input--radio .radio-inline input:checked + span:before, .subscribe--form .input--text input.valid + .highlight .highlight, .footer--widget h2:before, .faq--content .accordion .panel-heading a, .domain-ext--content:before, .domain-ext--name:before, .faq--categories h3:before, .faq--categories ul li a:hover, .faq--categories ul li.active a, .login--form .form-group input.valid + .highlight, .pricing-2--header:before, .f0f--search-bar input.valid + .highlight, .blog--post-pagination .pagination > li > a:hover, .blog--post-pagination .pagination > li > a:focus, .blog--post-pagination .pagination > li.active > a, .blog--widget-title:before, .blog--search-widget .input--text input.valid + .highlight, .blog--twitter-widget .blog--widget-title, .blog--post-comments-title h3:before, .blog--post-comment-form .title h3:before, .blog--post-comment-form-group input.valid + .highlight, .blog--post-comment-form-group textarea.valid + .highlight, .contact--address h2:before, .contact--form input.valid + .highlight, .contact--form textarea.valid + .highlight {
   background-color: #e82121 !important;
 }
+
+h2 strong{
+  color: #e82121 !important;
+}
