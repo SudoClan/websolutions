@@ -5,18 +5,6 @@
 <!-- Services Area Start -->
 <div id="services">
     <div class="container">
-        <!-- Section Title Start -->
-        <div class="section--title">
-            <div class="row">
-                <div class="col-md-6">
-                    <h2>Our <span>Services</span></h2>
-                </div>
-                <div class="col-md-6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
-                </div>
-            </div>
-        </div>
-        <!-- Section Title End -->
         <div class="row">
             <div class="col-md-4 service--item-h">
                 <!-- Service Item Start -->
@@ -155,18 +143,6 @@
 <!-- Features Area Start -->
 <div id="features">
     <div class="container">
-        <!-- Section Title Start -->
-        <div class="section--title">
-            <div class="row">
-                <div class="col-md-6">
-                    <h2>Services <span>Included</span></h2>
-                </div>
-                <div class="col-md-6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
-                </div>
-            </div>
-        </div>
-        <!-- Section Title End -->
         <div class="row">
             <div class="col-md-4 feature--item-h">
                 <!-- Feature Item Start -->
