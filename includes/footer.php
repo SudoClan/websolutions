@@ -15,7 +15,7 @@ var JFL_82501696084359 = new JotformFeedback({
 <div class="" style="background:#e82121;">
 <div class="">
     <div style="margin:auto; text-align:center;">
-<a class="btn--primary btn--ripple btn lightbox-82501696084359" style="margin:30px; font-size:30px;">
+<a class="btn--primary btn--ripple btn lightbox-82501696084359 size-quote">
 Click Here for a Free Quote
 </a>
   </div>
@@ -66,7 +66,8 @@ Click Here for a Free Quote
                     <!--<a href="#" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-comment"></i>LIVE CHAT</a>-->
                     <a href="tel:02080640276" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-phone"></i>0208 064 0276</a>
                     <a href="mailto:info@websolutions.services" class="btn-block btn--primary btn--ripple"><i class="fa fm fa-envelope"></i>info@websolutions.services</a>
-                    <a href="https://www.reviewcentre.com/website_design_companies/websolutions_london_limited_-_websolutionsservices-reviews_3643705" class="btn-block btn--primary btn--ripple" target="_blank"><i class="fa fm fa-envelope"></i>Testimonial</a>
+                    <a href="https://www.reviewcentre.com/website_design_companies/websolutions_london_limited_-_websolutionsservices-reviews_3643705" class="btn-block btn--primary btn--ripple" target="_blank"><i class="fa fm fa-search"></i>Testimonials</a>
+                    <a href="#" class="btn-block btn--primary btn--ripple" target="_blank"><i class="fa fm fa-home"></i>131 Gordon Road, Ilford, Essex, IG1 2XT.</a>
 
                     <div class="footer--contact-social">
                         <ul class="nav navbar-nav">
