@@ -45,7 +45,7 @@
                         <li><a href="web-development.php">Web Development</a></li>
                         <li><a href="web-hosting.php">Hosting</a></li>
                         <li><a href="our-work.php">Our Work</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
                 <!-- Header Nav End -->
