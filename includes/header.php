@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>HostWHMCS - Responsive Web Hosting and WHMCS Template</title>
+    <title>Cloud Hosting, Web Development, All in One, Web Solutions in London</title>
 
     <!-- ====Favicons==== -->
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
