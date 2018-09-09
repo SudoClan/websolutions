@@ -168,7 +168,7 @@
 <!-- Domain Search Area End -->
 <!-- Pricing Area Start -->
 <div id="pricing">
-    <div class="container">
+    <div class="container" class="bg-whitesmoke">
     <div class="row">
         <!-- Pricing 2 Item Start -->
         <div  class="col-md-4 pricing-2--item">
@@ -204,12 +204,12 @@
 <!-- Pricing Area End -->
 
 <!-- Features Area Start -->
-<div id="features">
+<!--<div id="features">
     <div class="container">
         <div class="row">
             <div class="col-md-4 feature--item-h">
                 <!-- Feature Item Start -->
-                <div class="feature--item">
+                <!--<div class="feature--item">
                     <div class="feature--icon">
                         <img src="img/feature-img/icon-01.png" alt="" class="img-responsive center-block">
                     </div>
@@ -219,10 +219,10 @@
                     </div>
                 </div>
                 <!-- Feature Item End -->
-            </div>
+            <!--</div>
             <div class="col-md-4 feature--item-h">
                 <!-- Feature Item Start -->
-                <div class="feature--item">
+                <!--<div class="feature--item">
                     <div class="feature--icon">
                         <img src="img/feature-img/icon-02.png" alt="" class="img-responsive center-block">
                     </div>
@@ -232,10 +232,10 @@
                     </div>
                 </div>
                 <!-- Feature Item End -->
-            </div>
+          <!--  </div>
             <div class="col-md-4 feature--item-h">
                 <!-- Feature Item Start -->
-                <div class="feature--item">
+                <!--<div class="feature--item">
                     <div class="feature--icon">
                         <img src="img/feature-img/icon-03.png" alt="" class="img-responsive center-block">
                     </div>
@@ -245,10 +245,10 @@
                     </div>
                 </div>
                 <!-- Feature Item End -->
-            </div>
+            <!--</div>
         </div>
     </div>
-</div>
+</div>-->
 <!-- Features Area End -->
 
 <?php include "includes/reviews.php" ?>
