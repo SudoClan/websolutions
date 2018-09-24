@@ -1,21 +1,10 @@
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
-<?php include "includes/bannerWebDevelopment.php" ?>
+<?php include "includes/bannerWebMaintenance.php" ?>
 <!-- Features Area Start -->
         <div id="features">
             <div class="container">
-                <!-- Section Title Start -->
-                <!--<div class="section--title">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h2>Services <span>Included</span></h2>
-                        </div>
-                        <div class="col-md-6">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus iste dignissimos quidem quod, ex omnis alias enim quae.</p>
-                        </div>
-                    </div>
-                </div>-->
-                <!-- Section Title End -->
+
                 <div class="row">
                     <div class="col-md-4 feature--item-h">
                         <!-- Feature Item Start -->
