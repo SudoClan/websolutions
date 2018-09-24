@@ -13,18 +13,18 @@
                             <div class="col-md-8">
                                 <!-- Banner Content Start -->
                                 <div class="banner--content">
-                                    <h1>CMS & BESPOKE WEBSITES</h1>
-                                    <h1 class="h1-sub">WITH A QUALIFIED TEAM BY YOUR SIDE</h2>
+                                    <h1>BE PROTECTED!</h1>
+                                    <h1 class="h1-sub">MAINTENANCES TO KEEP YOU UPDATED</h2>
                                     <br />
-                                    <h2>Get your website developed by our qualified developers in London, building websites in wide range of platforms, Standard & eCommerce.</h2>
+                                    <h2>Pick a budget that suits you for a hassle free experience.</h2>
 
                                     <ul>
-                                        <li>Hand coded website</li>
-                                        <li>Customised to your requirments</li>
-                                        <li>Content management system</li>
-                                        <li>Updating exising websites</li>
-                                        <li>Affordable price</li>
-                                        <li>We keep you notified evey step of the way</li>
+                                        <li>Protection from vulnerability</li>
+                                        <li>Website Content Updates</li>
+                                        <li>Bug Fixes</li>
+                                        <li>Scan for Malware, Viruses & Cleanup</li>
+                                        <li>Backup & off-site Backup</li>
+                                        <li>Weekly/Monthly Reports</li>
                                     </ul>
 
                                 </div>
