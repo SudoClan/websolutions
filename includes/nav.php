@@ -42,7 +42,12 @@
 
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php">Home</a></li>
-                        <li><a href="web-development.php">Web Development</a></li>
+                        <li class="dropdown"> <a href="#" data-toggle="dropdown" aria-expanded="false">Development<span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                          <li><a href="web-development.php">Websites</a></li>
+                          <li><a href="web-maintenance.php">Maintenance</a></li></ul>
+                        </li>
+
                         <li><a href="web-hosting.php">Hosting</a></li>
                         <li><a href="our-work.php">Our Work</a></li>
                         <li><a href="contact.php">Contact</a></li>
