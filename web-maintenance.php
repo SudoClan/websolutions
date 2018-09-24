@@ -12,18 +12,17 @@
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Basic</strong> Package</h2>
-            <h3>£20.00/mo</h3>
-            <p>Launching your product<br />ready for take off</p>
+            <h3>£25.00/mo</h3>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
-                <li class="pricing-table-p">5GB SSD Disk Space</li>
-                <li class="pricing-table-p">Unlimited Bandwidth</li>
-                <li class="pricing-table-p">5 Database & Emails</li>
-                <li class="pricing-table-p">Free DDoS Protection</li>
-                <li class="pricing-table-p">Free Website Builder</li>
-                <li class="pricing-table-p">Monthly Backup</li>
-                <li class="pricing-table-p">SSL Certificate (Optional)</li>
+                <li class="pricing-table-p">Website Monitoring</li>
+                <li class="pricing-table-p">Scans for Malware & Viruses</li>
+                <li class="pricing-table-p">Website Bug Fixes</li>
+                <li class="pricing-table-p">Monthly Backups</li>
+                <li class="pricing-table-p">Basic Content Updates</li>
+                <li class="pricing-table-p">Domain & Hosting Included</li>
+                <li class="pricing-table-p">SSL Certificate</li>
               </ul>
             </div>
           </div></div>
@@ -34,19 +33,21 @@
       <div class="col-md-4 pricing--item-h"> <div class="pricing--item">
         <div class="pricing--body">
           <div class="pricing--details">
-            <h2><strong>Recommended</strong> Package</h2>
+            <h2><strong>Standard</strong> Package</h2>
             <h3>£50.00/mo</h3>
-            <p>Perfect for expanding your<br />business or product</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
-                <li class="pricing-table-p">500GB SSD Disk Space</li>
-                <li class="pricing-table-p">Unlimited Bandwidth</li>
-                <li class="pricing-table-p">Unlimited Database & Emails</li>
-                <li class="pricing-table-p">Free DDoS Protection</li>
-                <li class="pricing-table-p">Optimised for Apps and CMS</li>
-                <li class="pricing-table-p">Weekly Backup</li>
-                <li class="pricing-table-p">SSL Certificate (Optional)</li>
+                <li class="pricing-table-p">Website Monitoring</li>
+                <li class="pricing-table-p">Scans for Malware & Viruses</li>
+                <li class="pricing-table-p">Website Bug Fixes</li>
+                <li class="pricing-table-p">Monthly Backups</li>
+                <li class="pricing-table-p">Website Content Updates</li>
+                <li class="pricing-table-p">Domain & Hosting Included</li>
+                <li class="pricing-table-p">SSL Certificate</li>
+                <li class="pricing-table-p">CMS & Plugin Updates</li>
+                <li class="pricing-table-p">Monthly off-site Backups</li>
+                <li class="pricing-table-p">Monthly Reports</li>
               </ul>
             </div>
           </div></div>
@@ -58,18 +59,20 @@
         <div class="pricing--body">
           <div class="pricing--details">
             <h2><strong>Advanced</strong> Package</h2>
-            <h3>£100.00/mo</h3>
-            <p>Advanced spaceship that<br />circle the earth</p>
+            <h3>£75.00/mo</h3>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
-                <li class="pricing-table-p">Unlimited SSD Disk Space</li>
-                <li class="pricing-table-p">Unlimited Bandwidth</li>
-                <li class="pricing-table-p">Unlimited Database & Emails</li>
-                <li class="pricing-table-p">Free DDoS Protection</li>
-                <li class="pricing-table-p">SpamExperts Protection</li>
-                <li class="pricing-table-p">Daily Backup</li>
-                <li class="pricing-table-p">Free 256 Bit SSL Certificate</li>
+                <li class="pricing-table-p">Website Monitoring</li>
+                <li class="pricing-table-p">Scans for Malware & Viruses</li>
+                <li class="pricing-table-p">Website Bug Fixes</li>
+                <li class="pricing-table-p">Weekly Backups</li>
+                <li class="pricing-table-p">Website Content Updates</li>
+                <li class="pricing-table-p">Domain & Hosting Included</li>
+                <li class="pricing-table-p">SSL Certificate</li>
+                <li class="pricing-table-p">CMS & Plugin Updates</li>
+                <li class="pricing-table-p">Weekly off-site Backups</li>
+                <li class="pricing-table-p">Weekly Reports</li>
               </ul>
             </div>
           </div></div>
