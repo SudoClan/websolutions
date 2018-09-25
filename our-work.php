@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Our Portfolio</title>
+
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
 <?php include "includes/bannerOurWork.php" ?>
