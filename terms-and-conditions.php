@@ -17,7 +17,7 @@ All our clients’ information is taken confidentiality. Once payment has been a
 After deposit has been made, your project will be secured and we will keep you up-to-date with the progress. We aim to complete your website ensuring we have all the required information. Once you are happy with; the build, design and functionality, final payment is required before your product is released.
 
 <h3>Domain & Hosting Plan</h3>
-If you are hosting with us (which can include a domain), an Online Secure Payment System (SSL) will be used, to take yearly or monthly payments for your plan. We accept all types of credit and debit cards. We may ask you to transfer the yearly payment via bank transfer or yearly/monthly payments via direct debit. Failing to pay within 30 days of your renewal, we will terminate your plan which will stop your website, domain and emails. 
+If you are hosting with us (which can include a domain), an Online Secure Payment System (SSL) will be used, to take yearly or monthly payments for your plan. We accept all types of credit and debit cards. We may ask you to transfer the yearly payment via bank transfer or yearly/monthly payments via direct debit. Failing to pay within 30 days of your renewal, we will terminate your plan which will stop your website, domain(s) and email(s). 
 
 <h3>Future costs</h3>
 Any updates in the future are subject to a further charge, (you do get some revisions as part of your package).
