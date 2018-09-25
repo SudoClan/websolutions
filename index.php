@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Cloud Hosting, Web Development, All in One, Web Solutions in London</title>
+
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
 <?php include "includes/bannerHome.php" ?>
