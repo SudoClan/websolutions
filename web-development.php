@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Website Development, CMS, Web Hosting Server, Logo Design</title>
+
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
 <?php include "includes/bannerWebDevelopment.php" ?>
