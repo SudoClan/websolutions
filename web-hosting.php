@@ -1,5 +1,5 @@
 <?php include "includes/header.php" ?>
-<?php include "includes/nav.php" ?>
+<?php include "includes/nav.php" ?>d
 <?php include "includes/bannerWebHosting.php" ?>
 
 <div id="pricing" class="bg--whitesmoke">
@@ -44,6 +44,7 @@
                 <li class="pricing-table-p">Unlimited Bandwidth</li>
                 <li class="pricing-table-p">Unlimited Database & Emails</li>
                 <li class="pricing-table-p">Free DDoS Protection</li>
+                <li class="pricing-table-p">SpamExperts Protection</li>
                 <li class="pricing-table-p">Optimised for Apps and CMS</li>
                 <li class="pricing-table-p">Weekly Backup</li>
                 <li class="pricing-table-p">SSL Certificate (Optional)</li>
@@ -68,6 +69,7 @@
                 <li class="pricing-table-p">Unlimited Database & Emails</li>
                 <li class="pricing-table-p">Free DDoS Protection</li>
                 <li class="pricing-table-p">SpamExperts Protection</li>
+                <li class="pricing-table-p">Optimised for Apps and CMS</li>
                 <li class="pricing-table-p">Daily Backup</li>
                 <li class="pricing-table-p">Free 256 Bit SSL Certificate</li>
               </ul>
