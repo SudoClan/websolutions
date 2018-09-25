@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<title>Contact Us</title>
+<title>Web Solutions | Contact Us</title>
 
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>

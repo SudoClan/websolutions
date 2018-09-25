@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<title>Our Portfolio</title>
+<title>Web Solutions | Our Portfolio</title>
 
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
