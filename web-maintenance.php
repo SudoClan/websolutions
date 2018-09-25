@@ -13,6 +13,7 @@
           <div class="pricing--details">
             <h2><strong>Basic</strong> Package</h2>
             <h3>£25.00/mo</h3>
+            <p>Which includes <strong>Launch</strong> Package</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
@@ -35,6 +36,7 @@
           <div class="pricing--details">
             <h2><strong>Standard</strong> Package</h2>
             <h3>£50.00/mo</h3>
+            <p>Which includes <strong>Booster</strong> Package</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
@@ -60,6 +62,7 @@
           <div class="pricing--details">
             <h2><strong>Advanced</strong> Package</h2>
             <h3>£75.00/mo</h3>
+            <p>Which includes <strong>Orbit</strong> Package</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>

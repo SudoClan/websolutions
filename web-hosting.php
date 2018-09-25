@@ -80,6 +80,9 @@
       </div></div></div>
     <!--</div>-->
   </div>
+  <div style="margin:auto; text-align:center; position:relative; top:40px;">
+    <a href="web-maintenance.php" class="btn--primary btn--ripple">Have a look at our maintenances package which includes Domain & Hosting!</a>
+  </div>
 </div>
 
 
