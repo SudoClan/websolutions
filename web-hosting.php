@@ -1,5 +1,5 @@
 <?php include "includes/header.php" ?>
-<?php include "includes/nav.php" ?>d
+<?php include "includes/nav.php" ?>
 <?php include "includes/bannerWebHosting.php" ?>
 
 <div id="pricing" class="bg--whitesmoke">
