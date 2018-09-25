@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Maintenances, CMS, Domain and Hosting, SSL</title>
+
 <?php include "includes/header.php" ?>
 <?php include "includes/nav.php" ?>
 <?php include "includes/bannerWebMaintenance.php" ?>
