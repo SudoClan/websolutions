@@ -21,6 +21,8 @@
             <h3>£1.99/mo</h3>
             <p>Launching your product<br />ready for take off</p>
             <hr>
+            <p><a href="img/cPanel/launch.png" style="color:black; font-weight:500;" target="_blank">Click Here</a> for<br />Launch<br />cPanel Preview</p>
+            <hr>
               <div class="banner--content pricing-table">
               <ul>
                 <li class="pricing-table-p">5GB SSD Disk Space</li>
@@ -43,6 +45,8 @@
             <h2><strong>Booster</strong> Package</h2>
             <h3>£3.49/mo</h3>
             <p>Perfect for expanding your<br />business or product</p>
+            <hr>
+            <p><a href="img/cPanel/booster.png" style="color:black; font-weight:500;" target="_blank">Click Here</a> for<br />Booster + Launch<br />cPanel Preview</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
@@ -67,6 +71,8 @@
             <h2><strong>Orbit</strong> Package</h2>
             <h3>£4.99/mo</h3>
             <p>Advanced spaceship that<br />circle the earth</p>
+            <hr>
+            <p><a href="img/cPanel/orbit.png" style="color:black; font-weight:500;" target="_blank">Click Here</a> for<br />Orbit + Booster + Launch<br />cPanel Preview</p>
             <hr>
               <div class="banner--content pricing-table">
               <ul>
