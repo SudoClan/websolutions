@@ -36,9 +36,9 @@
                 </div>
                 <!-- Header Nav Start -->
                 <div id="headerNav" class="navbar-collapse collapse">
-                    <!--<div class="header--login-btn">
-                        <a href="login.html" class="btn--primary btn--ripple">Login</a>
-                    </div>-->
+                    <div class="header--login-btn">
+                        <a href="https://websolutions.services/clients/clientarea.php" class="btn--primary btn--ripple" target="_blank">Login</a>
+                    </div>
 
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="index.php">Home</a></li>
