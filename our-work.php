@@ -15,11 +15,11 @@
         <!-- Feature Item Start -->
         <div class="feature--item">
             <div class="feature--icon">
-                <img src="img/portfolio/namaaste-kitchen.jpg" alt="" class="img-responsive center-block">
+                <img src="img/portfolio/cedars-manor-school-intranet.jpg" alt="" class="img-responsive center-block">
             </div>
             <div class="feature--content">
-                <h2>Namaaste Kitchen</h2>
-                <p><a href="http://www.namaastekitchen.co.uk/" target="_blank" style="color:black;">http://www.namaastekitchen.co.uk</a></p>
+                <h2>Cedars Manor School Intranet</h2>
+                <p><a href="https://websolutions.services/cedars-manor-school/" target="_blank" style="color:black;">Click to Preview</a></p>
             </div>
         </div>
         <!-- Feature Item End -->
@@ -257,11 +257,11 @@
 <!-- Feature Item Start -->
 <div class="feature--item">
     <div class="feature--icon">
-        <img src="img/portfolio/" alt="" class="img-responsive center-block">
+        <img src="img/portfolio/namaaste-kitchen.jpg" alt="" class="img-responsive center-block">
     </div>
     <div class="feature--content">
-        <h2></h2>
-        <p><a href="" target="_blank" style="color:black;"></a></p>
+        <h2>Namaaste Kitchen</h2>
+        <p><a href="http://www.namaastekitchen.co.uk/" target="_blank" style="color:black;">http://www.namaastekitchen.co.uk</a></p>
     </div>
 </div>
 <!-- Feature Item End -->
